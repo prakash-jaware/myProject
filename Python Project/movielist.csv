@@ -1,0 +1,1001 @@
+,Movie,Rating,Genre,Release Date,Runtime,Director,URL
+0,Black Adam,73.0,"Action, Fantasy, Science Fiction",10/21/2022 ,2h 5m,Jason Suhrke,https://www.themoviedb.org/movie/436270-black-adam
+1,R.I.P.D. 2: Rise of the Damned,68.0,"Fantasy, Action, Comedy, Crime",11/15/2022 ,1h 42m,Paul Leyden,https://www.themoviedb.org/movie/1013860-r-i-p-d-2-rise-of-the-damned
+2,Paradise City,62.0,"Crime, Action, Thriller",11/17/2022 ,1h 33m,Chuck Russell,https://www.themoviedb.org/movie/829799-paradise-city
+3,Corrective Measures,50.0,"Science Fiction, Action",04/29/2022 ,1h 46m,Sean Patrick O'Reilly,https://www.themoviedb.org/movie/872177-corrective-measures
+4,Hex,43.0,"Action, Horror, Thriller",11/01/2022 ,1h 28m,Andy Malchiodi,https://www.themoviedb.org/movie/988233-hex
+5,The Woman King,79.0,"Action, Drama, History",09/16/2022 ,2h 15m,Gina Prince-Bythewood,https://www.themoviedb.org/movie/724495-the-woman-king
+6,Emily the Criminal,69.0,"Crime, Drama, Mystery, Thriller",08/12/2022 ,1h 37m,John Patton Ford,https://www.themoviedb.org/movie/862965-emily-the-criminal
+7,Lost Bullet 2,68.0,"Action, Drama, Thriller",11/10/2022 ,1h 38m,Jean-Baptiste Jay,https://www.themoviedb.org/movie/948276-balle-perdue-2
+8,The Minute You Wake Up Dead,49.0,"Thriller, Crime",11/04/2022 ,1h 30m,Michael Mailer,https://www.themoviedb.org/movie/934641-the-minute-you-wake-up-dead
+9,"Lyle, Lyle, Crocodile",77.0,"Comedy, Family, Music",10/07/2022 ,1h 46m,Josh Gordon,https://www.themoviedb.org/movie/830784-lyle-lyle-crocodile
+10,Disenchanted,73.0,"Comedy, Family, Fantasy",11/18/2022 ,2h,Adam Shankman,https://www.themoviedb.org/movie/338958-disenchanted
+11,Frank and Penelope,75.0,"Thriller, Horror, Crime",06/03/2022 ,1h 52m,Sean Patrick Flanery,https://www.themoviedb.org/movie/899294-frank-and-penelope
+12,Margaux,68.0,"Horror, Science Fiction",09/09/2022 ,1h 45m,Steven C. Miller,https://www.themoviedb.org/movie/846778-margaux
+13,On the Line,65.0,Thriller,10/31/2022 ,1h 44m,Romuald Boulanger,https://www.themoviedb.org/movie/979924-on-the-line
+14,Black Panther: Wakanda Forever,75.0,"Action, Adventure, Science Fiction",11/11/2022 ,2h 42m,Ryan Coogler,https://www.themoviedb.org/movie/505642-black-panther-wakanda-forever
+15,Sniper: The White Raven,76.0,"Drama, Action, War",08/24/2022 ,2h,Marian Bushan,https://www.themoviedb.org/movie/966220
+16,Medieval,72.0,"History, Action, Drama",09/09/2022 ,2h 6m,Petr Jákl,https://www.themoviedb.org/movie/551271-medieval
+17,Smile,68.0,"Horror, Mystery, Thriller",09/30/2022 ,1h 55m,Parker Finn,https://www.themoviedb.org/movie/882598-smile
+18,Blue's Big City Adventure,74.0,"Family, Adventure, Music, Animation",11/18/2022 ,1h 14m,Matt Stawski,https://www.themoviedb.org/movie/939210-blue-s-big-city-adventure
+19,Slumberland,79.0,"Family, Fantasy, Adventure, Drama",11/18/2022 ,1h 57m,Francis Lawrence,https://www.themoviedb.org/movie/668461-slumberland
+20,Hellraiser,65.0,"Horror, Mystery",10/07/2022 ,2h 1m,David Bruckner,https://www.themoviedb.org/movie/338947-hellraiser
+21,Nice Sister-In-Law 2,50.0,Romance,10/08/2017 ,1h 12m,David Bruckner,https://www.themoviedb.org/movie/485470-2
+22,Enola Holmes 2,77.0,"Mystery, Adventure, Comedy, Crime",11/04/2022 ,2h 9m,Harry Bradbeer,https://www.themoviedb.org/movie/829280-enola-holmes-2
+23,Blade of the 47 Ronin,69.0,"Action, Fantasy",10/25/2022 ,1h 46m,Ron Yuan,https://www.themoviedb.org/movie/732459-blade-of-the-47-ronin
+24,The Soccer Football Movie,67.0,"Animation, Comedy, Family",11/09/2022 ,1h 14m,Mitch Schauer,https://www.themoviedb.org/movie/1037858-the-soccer-football-movie
+25,Tom and Jerry Snowman's Land,80.0,"Family, Comedy, Animation, Adventure",11/15/2022 ,1h 16m,Darrell Van Citters,https://www.themoviedb.org/movie/1018403-tom-and-jerry-snowman-s-land
+26,Cop Secret,62.0,"Comedy, Action, Thriller",05/23/2022 ,1h 40m,Haraldur Ari Karlsson,https://www.themoviedb.org/movie/792775-leynilogga
+27,Tad the Lost Explorer and the Curse of the Mummy,79.0,"Adventure, Animation, Comedy, Family, Fantasy",09/09/2022 ,1h 29m,Enrique Gato,https://www.themoviedb.org/movie/676701-tadeo-jones-3-la-tabla-esmeralda
+28,Fall,73.0,Thriller,08/12/2022 ,1h 47m,Scott Mann,https://www.themoviedb.org/movie/985939-fall
+29,Overdose,65.0,"Action, Crime, Thriller",11/04/2022 ,1h 59m,Olivier Marchal,https://www.themoviedb.org/movie/896485-overdose
+30,All Quiet on the Western Front,78.0,"War, Drama, Action",10/28/2022 ,2h 27m,Edward Berger,https://www.themoviedb.org/movie/49046-im-westen-nichts-neues
+31,Terrifier 2,70.0,"Horror, Thriller",10/28/2022 ,2h 18m,Michael Leavy,https://www.themoviedb.org/movie/663712-terrifier-2
+32,The Lair,60.0,"Action, Horror",11/24/2022 ,1h 33m,Neil Marshall,https://www.themoviedb.org/movie/760204-the-lair
+33,In the Forest,67.0,"Horror, Thriller",01/28/2022 ,1h 23m,Hector Barron,https://www.themoviedb.org/movie/929562-in-the-forest
+34,To Kill the Beast,56.0,"Mystery, Fantasy, Thriller",04/28/2022 ,1h 29m,Agustina San Martín,https://www.themoviedb.org/movie/856245-matar-a-la-bestia
+35,The Friendship Game,52.0,"Science Fiction, Horror",11/11/2022 ,1h 27m,Scooter Corkle,https://www.themoviedb.org/movie/844396-the-friendship-game
+36,Jeepers Creepers: Reborn,58.0,"Horror, Thriller, Mystery",09/15/2022 ,1h 28m,Timo Vuorensola,https://www.themoviedb.org/movie/717728-jeepers-creepers-reborn
+37,MexZombies,72.0,"Horror, Action, Comedy",10/26/2022 ,1h 33m,Chava Cartas,https://www.themoviedb.org/movie/675054-mexzombies
+38,Blackout,54.0,"Action, Adventure, Thriller",10/12/2022 ,1h 21m,Sam Macaroni,https://www.themoviedb.org/movie/759507-blackout
+39,Avatar: The Way of Water,0.0,"Science Fiction, Action, Adventure",12/16/2022 ,3h 12m,James Cameron,https://www.themoviedb.org/movie/76600-avatar-the-way-of-water
+40,The Menu,73.0,"Comedy, Horror, Thriller",11/18/2022 ,1h 47m,Mark Mylod,https://www.themoviedb.org/movie/593643-the-menu
+41,Wild Is the Wind,60.0,"Crime, Drama",10/28/2022 ,2h 3m,Fabian Medea,https://www.themoviedb.org/movie/1033107-wild-is-the-wind
+42,The Visitor,64.0,"Horror, Mystery, Thriller",10/07/2022 ,1h 26m,Justin P. Lange,https://www.themoviedb.org/movie/881487-the-visitor
+43,Legend of the Galactic Heroes: Die Neue These - Intrigue 1,63.0,,09/30/2022 ,Null,Justin P. Lange,https://www.themoviedb.org/movie/1030419-die-neue-these-1
+44,Project Gemini,57.0,Science Fiction,01/06/2022 ,1h 38m,Serik Beyseu,https://www.themoviedb.org/movie/575322
+45,Blowback,53.0,"Action, Thriller, Crime",11/17/2022 ,1h 33m,Tibor Takács,https://www.themoviedb.org/movie/972313-blowback
+46,The Invitation,64.0,"Horror, Thriller",08/26/2022 ,1h 45m,Jessica M. Thompson,https://www.themoviedb.org/movie/830788-the-invitation
+47,Wendell & Wild,68.0,"Animation, Comedy, Fantasy, Adventure",10/21/2022 ,1h 47m,Henry Selick,https://www.themoviedb.org/movie/511817-wendell-wild
+48,Thor: Love and Thunder,67.0,"Fantasy, Action, Comedy",07/08/2022 ,1h 59m,Taika Waititi,https://www.themoviedb.org/movie/616037-thor-love-and-thunder
+49,Spirited,73.0,Comedy,11/17/2022 ,2h 7m,Sean Anders,https://www.themoviedb.org/movie/632856-spirited
+50,The Guardians of the Galaxy Holiday Special,75.0,"Comedy, Science Fiction, Adventure",11/25/2022 ,45m,James Gunn,https://www.themoviedb.org/movie/774752-the-guardians-of-the-galaxy-holiday-special
+51,Jurassic World Dominion,70.0,"Adventure, Action, Science Fiction",06/10/2022 ,2h 27m,Colin Trevorrow,https://www.themoviedb.org/movie/507086-jurassic-world-dominion
+52,Under Wraps 2,65.0,"Family, Fantasy, TV Movie",09/30/2022 ,1h 23m,Alex Zamm,https://www.themoviedb.org/movie/936061-under-wraps-2
+53,The Red Book Ritual,65.0,Horror,09/13/2022 ,1h 23m,Brian Deane,https://www.themoviedb.org/movie/928391-the-red-book-ritual
+54,Bullet Train,75.0,"Action, Comedy, Thriller",08/05/2022 ,2h 7m,David Leitch,https://www.themoviedb.org/movie/718930-bullet-train
+55,The Quintessential Quintuplets Movie,90.0,"Animation, Comedy, Romance",05/20/2022 ,2h 16m,Masato Jimbo,https://www.themoviedb.org/movie/820067
+56,Spider-Man: No Way Home,80.0,"Action, Adventure, Science Fiction",12/17/2021 ,2h 28m,Jon Watts,https://www.themoviedb.org/movie/634649-spider-man-no-way-home
+57,Hocus Pocus 2,75.0,"Fantasy, Comedy, Family",09/30/2022 ,1h 47m,Anne Fletcher,https://www.themoviedb.org/movie/642885-hocus-pocus-2
+58,Beast,70.0,"Thriller, Adventure, Horror",08/19/2022 ,1h 33m,Baltasar Kormákur,https://www.themoviedb.org/movie/760741-beast
+59,Barbie Epic Road Trip,77.0,"Comedy, Family, Animation",10/25/2022 ,37m,Conrad Helten,https://www.themoviedb.org/movie/1034470-barbie-epic-road-trip
+60,Dragon Ball Super: Super Hero,80.0,"Animation, Science Fiction, Action",08/26/2022 ,1h 39m,Tetsuro Kodama,https://www.themoviedb.org/movie/610150
+61,Fullmetal Alchemist: The Final Alchemy,64.0,"Action, Adventure, Fantasy",06/24/2022 ,2h 23m,Fumihiko Sori,https://www.themoviedb.org/movie/960704
+62,Avatar,75.0,"Action, Adventure, Fantasy, Science Fiction",08/27/2010 ,2h 42m,Michael Musteric,https://www.themoviedb.org/movie/19995-avatar
+63,Top Gun: Maverick,83.0,"Action, Drama",05/27/2022 ,2h 11m,Joseph Kosinski,https://www.themoviedb.org/movie/361743-top-gun-maverick
+64,Orphan: First Kill,68.0,"Horror, Thriller",10/17/2022 ,1h 39m,William Brent Bell,https://www.themoviedb.org/movie/760161-orphan-first-kill
+65,Mia and Me: The Hero of Centopia,74.0,"Animation, Fantasy, Adventure",05/26/2022 ,1h 22m,Adam Gunn,https://www.themoviedb.org/movie/955644-mia-and-me-the-hero-of-centopia
+66,My Father's Dragon,74.0,"Animation, Adventure, Family, Fantasy, Comedy",11/11/2022 ,1h 44m,Fabian Erlinghäuser,https://www.themoviedb.org/movie/560052-my-father-s-dragon
+67,Prey,79.0,"Thriller, Action, Science Fiction",08/05/2022 ,1h 40m,Mia Fortier,https://www.themoviedb.org/movie/766507-prey
+68,Madagascar: A Little Wild Holiday Goose Chase,53.0,"Animation, Comedy",11/26/2021 ,24m,Chad Van De Keere,https://www.themoviedb.org/movie/904039-madagascar-a-little-wild-holiday-goose-chase
+69,The School for Good and Evil,73.0,"Fantasy, Action, Drama",10/19/2022 ,2h 26m,Paul Feig,https://www.themoviedb.org/movie/779782-the-school-for-good-and-evil
+70,Polar,50.0,"Action, Adventure, Thriller",10/26/2022 ,1h 16m,Alberto Palma,https://www.themoviedb.org/movie/855440-polar
+71,The Infernal Machine,69.0,"Thriller, Mystery",12/02/2022 ,1h 47m,Andrew Hunt,https://www.themoviedb.org/movie/916605-the-infernal-machine
+72,Sonic the Hedgehog 2,76.0,"Action, Adventure, Family, Comedy",04/08/2022 ,2h 2m,Jeff Fowler,https://www.themoviedb.org/movie/675353-sonic-the-hedgehog-2
+73,The Takeover,58.0,"Action, Crime, Thriller",11/01/2022 ,1h 27m,Marco Maas,https://www.themoviedb.org/movie/944864-the-takeover
+74,Watcher,63.0,"Mystery, Thriller, Horror",06/03/2022 ,1h 36m,Chloe Okuno,https://www.themoviedb.org/movie/807356-watcher
+75,Code Name Banshee,52.0,"Thriller, Action",07/14/2022 ,1h 33m,Jon Keeyes,https://www.themoviedb.org/movie/916719-code-name-banshee
+76,Cuando Sea Joven,89.0,"Comedy, Fantasy",09/14/2022 ,1h 55m,Raúl Martínez,https://www.themoviedb.org/movie/772071-cuando-sea-joven
+77,Drifting Home,78.0,"Animation, Drama, Mystery, Fantasy, Family",09/16/2022 ,2h,Hiroyasu Ishida,https://www.themoviedb.org/movie/877957
+78,Family Game,51.0,"Thriller, Drama",06/17/2022 ,1h 50m,Rafaël Ouellet,https://www.themoviedb.org/movie/848526-arsenault-fils
+79,A Christmas Mystery,77.0,"Family, Comedy, Drama, Fantasy, Mystery, Thriller",11/24/2022 ,1h 27m,Alex Ranarivelo,https://www.themoviedb.org/movie/987919-a-christmas-mystery
+80,The Bush,50.0,Thriller,08/18/2022 ,1h 27m,Sebastián Caulier,https://www.themoviedb.org/movie/960096-el-monte
+81,Jujutsu Kaisen 0,83.0,"Animation, Action, Fantasy",06/30/2022 ,1h 45m,Masataka Akai,https://www.themoviedb.org/movie/810693-0
+82,Minions: The Rise of Gru,75.0,"Animation, Comedy, Family",07/01/2022 ,1h 27m,Brad Ableson,https://www.themoviedb.org/movie/438148-minions-the-rise-of-gru
+83,One Way,53.0,"Crime, Action, Thriller",09/02/2022 ,1h 36m,Andrew Baird,https://www.themoviedb.org/movie/747803-one-way
+84,Secret Headquarters,0.0,"Science Fiction, Family, Action, Adventure",12/20/2022 ,1h 44m,Ariel Schulman,https://www.themoviedb.org/movie/791155-secret-headquarters
+85,Luck,79.0,"Animation, Adventure, Comedy, Fantasy",08/05/2022 ,1h 45m,Peggy Holmes,https://www.themoviedb.org/movie/585511-luck
+86,Men,63.0,"Horror, Thriller, Fantasy",06/01/2022 ,1h 40m,Alex Garland,https://www.themoviedb.org/movie/780609-men
+87,Dog,74.0,"Drama, Comedy",02/18/2022 ,1h 42m,Channing Tatum,https://www.themoviedb.org/movie/626735-dog
+88,L.O.L. Surprise! Winter Fashion Show,79.0,Animation,10/24/2022 ,Null,John Kafka,https://www.themoviedb.org/movie/1039627-l-o-l-surprise-winter-fashion-show
+89,Piggy,67.0,"Drama, Thriller, Horror",10/14/2022 ,1h 40m,Sara San Martín,https://www.themoviedb.org/movie/848058-cerdita
+90,Athena,66.0,"Drama, Action, Thriller",09/09/2022 ,1h 37m,Romain Gavras,https://www.themoviedb.org/movie/852046-athena
+91,The Battle at Lake Changjin: Water Gate Bridge,66.0,"War, History, Action, Drama",02/01/2022 ,2h 29m,Chen Kaige,https://www.themoviedb.org/movie/928123
+92,Orgasm Inc: The Story of OneTaste,61.0,Documentary,11/05/2022 ,1h 29m,Sarah Gibson,https://www.themoviedb.org/movie/1040603-orgasm-inc-the-story-of-onetaste
+93,DC League of Super-Pets,75.0,"Animation, Action, Family, Comedy, Science Fiction",07/29/2022 ,1h 45m,Sam Levine,https://www.themoviedb.org/movie/539681-dc-league-of-super-pets
+94,Nice Sister-In-Law 3,69.0,Romance,06/07/2018 ,1h 22m,Lee Ri-dan,https://www.themoviedb.org/movie/682908-3
+95,Batman and Superman: Battle of the Super Sons,80.0,"Animation, Action, Science Fiction",10/18/2022 ,1h 19m,Matt Peters,https://www.themoviedb.org/movie/886396-batman-and-superman-battle-of-the-super-sons
+96,Samaritan,69.0,"Action, Drama, Science Fiction",08/25/2022 ,1h 42m,Julius Avery,https://www.themoviedb.org/movie/629176-samaritan
+97,After Ever Happy,70.0,"Romance, Drama",09/07/2022 ,1h 35m,Castille Landon,https://www.themoviedb.org/movie/744276-after-ever-happy
+98,The Addams Family,70.0,"Comedy, Fantasy",11/22/1991 ,1h 42m,Barry Sonnenfeld,https://www.themoviedb.org/movie/2907-the-addams-family
+99,Doctor Strange in the Multiverse of Madness,74.0,"Fantasy, Action, Adventure",05/06/2022 ,2h 6m,Sam Raimi,https://www.themoviedb.org/movie/453395-doctor-strange-in-the-multiverse-of-madness
+100,So Cold the River,56.0,"Horror, Thriller",03/25/2022 ,1h 33m,Paul Shoulberg,https://www.themoviedb.org/movie/811061-so-cold-the-river
+101,Turning Red,75.0,"Animation, Family, Comedy, Fantasy",03/10/2022 ,1h 40m,Domee Shi,https://www.themoviedb.org/movie/508947-turning-red
+102,The Stranger,61.0,"Crime, Drama, Mystery, Thriller",10/06/2022 ,1h 57m,Thomas M. Wright,https://www.themoviedb.org/movie/848791-the-stranger
+103,Lou,67.0,"Action, Thriller, Drama",09/23/2022 ,1h 47m,Anna Foerster,https://www.themoviedb.org/movie/429473-lou
+104,Crawlspace,68.0,Thriller,03/31/2022 ,1h 30m,L. Gustavo Cooper,https://www.themoviedb.org/movie/879538-crawlspace
+105,Togo,65.0,"Crime, Drama",10/05/2022 ,1h 35m,Adrián Caetano,https://www.themoviedb.org/movie/884363-togo
+106,Black Adam: Saviour or Destroyer?,71.0,Documentary,10/16/2022 ,22m,Adrián Caetano,https://www.themoviedb.org/movie/1040330-black-adam-saviour-or-destroyer
+107,Doraemon: Nobita's Little Star Wars 2021,56.0,"Animation, Science Fiction, Adventure",03/04/2022 ,1h 48m,Susumu Yamaguchi,https://www.themoviedb.org/movie/782054-2021
+108,Sword Art Online the Movie -Progressive- Aria of a Starless Night,83.0,"Animation, Action, Fantasy, Science Fiction",10/30/2021 ,1h 37m,Yasuyuki Kai,https://www.themoviedb.org/movie/761898
+109,The Batman,77.0,"Crime, Mystery, Thriller",03/04/2022 ,2h 57m,Matt Reeves,https://www.themoviedb.org/movie/414906-the-batman
+110,The Temptation of Kimono,46.0,"Drama, Romance",03/27/2009 ,1h 25m,Tadashi Kyouya,https://www.themoviedb.org/movie/247136
+111,Matriarch,53.0,Horror,10/21/2022 ,1h 25m,Ben Steiner,https://www.themoviedb.org/movie/1024535-matriarch
+112,Encanto,77.0,"Animation, Comedy, Family, Fantasy",11/24/2021 ,1h 42m,Charise Castro Smith,https://www.themoviedb.org/movie/568124-encanto
+113,Summer Ghost,77.0,"Animation, Drama, Mystery, Fantasy",11/12/2021 ,40m,loundraw,https://www.themoviedb.org/movie/798544
+114,Black Panther,74.0,"Action, Adventure, Science Fiction",02/16/2018 ,2h 15m,Ryan Coogler,https://www.themoviedb.org/movie/284054-black-panther
+115,The Noel Diary,67.0,"Romance, Comedy, Drama",11/24/2022 ,1h 39m,Charles Shyer,https://www.themoviedb.org/movie/736918-the-noel-diary
+116,Holiday Harmony,89.0,"Romance, Comedy",11/24/2022 ,1h 51m,Shaun Paul Piccinino,https://www.themoviedb.org/movie/1028935-holiday-harmony
+117,Who's a Good Boy?,70.0,Comedy,11/23/2022 ,1h 35m,Ihtzi Hurtado,https://www.themoviedb.org/movie/1044043-el-guau
+118,The Twin,61.0,"Horror, Mystery",04/06/2022 ,1h 49m,Taneli Mustonen,https://www.themoviedb.org/movie/477462-the-twin
+119,One Piece Film Red,74.0,"Animation, Adventure, Action, Fantasy",10/07/2022 ,1h 55m,Goro Taniguchi,https://www.themoviedb.org/movie/900667-one-piece-film-red
+120,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,83.0,"Animation, Action, Adventure, Fantasy",08/13/2021 ,1h 57m,Haruo Sotozaki,https://www.themoviedb.org/movie/635302
+121,Christmas on Mistletoe Farm,54.0,"Family, Comedy",11/24/2022 ,1h 44m,Debbie Isitt,https://www.themoviedb.org/movie/1038627-christmas-on-mistletoe-farm
+122,Intergalactic Meeting,60.0,"Adventure, Science Fiction, Comedy",09/22/2022 ,1h 25m,Fabrício Bittar,https://www.themoviedb.org/movie/1006381-acampamento-intergalactico
+123,Falling for Christmas,66.0,"Romance, Comedy",11/10/2022 ,1h 35m,Janeen Damian,https://www.themoviedb.org/movie/833097-falling-for-christmas
+124,The Black Phone,78.0,"Horror, Thriller",06/24/2022 ,1h 43m,Scott Derrickson,https://www.themoviedb.org/movie/756999-the-black-phone
+125,Seoul Vibe,69.0,"Action, Crime, Comedy, Adventure",08/26/2022 ,2h 20m,Moon Hyun-sung,https://www.themoviedb.org/movie/773867
+126,An Argentinian crime,62.0,Thriller,08/25/2022 ,1h 53m,Lucas Combina,https://www.themoviedb.org/movie/941959-un-crimen-argentino
+127,Dracula: The Original Living Vampire,58.0,"Horror, Fantasy, Thriller",01/28/2022 ,1h 26m,Maximilian Elfeldt,https://www.themoviedb.org/movie/928015-dracula-the-original-living-vampire
+128,Terrifier,66.0,"Horror, Thriller",08/17/2018 ,1h 24m,Damien Leone,https://www.themoviedb.org/movie/420634-terrifier
+129,The Sensuous Nurse,55.0,Comedy,12/19/1975 ,1h 30m,Nello Rossati,https://www.themoviedb.org/movie/4705-l-infermiera
+130,Whisper,63.0,"Horror, Thriller",06/23/2022 ,1h 16m,Christopher Jolley,https://www.themoviedb.org/movie/928773-whisper
+131,The Tomorrow War,79.0,"Action, Science Fiction, Adventure",07/02/2021 ,2h 18m,Chris McKay,https://www.themoviedb.org/movie/588228-the-tomorrow-war
+132,I Don't Like Younger Men 4,60.0,Romance,07/26/2019 ,1h 10m,Kim Tae-Soo,https://www.themoviedb.org/movie/619433-4
+133,20th Century Girl,87.0,"Romance, Drama",10/21/2022 ,1h 59m,Bang Woo-ri,https://www.themoviedb.org/movie/851644-20
+134,"Lagunas, la guarida del diablo",35.0,Horror,05/11/2022 ,Null,Marc Carreté,https://www.themoviedb.org/movie/967892-lagunas-la-guarida-del-diablo
+135,20/20 Presents Black Panther: In Search of Wakanda,60.0,Documentary,11/04/2022 ,43m,David Hoffman,https://www.themoviedb.org/movie/1043835-20-20-presents-black-panther-in-search-of-wakanda
+136,Inexorable,58.0,Thriller,04/06/2022 ,1h 38m,Fabrice Du Welz,https://www.themoviedb.org/movie/781099-inexorable
+137,Bubble,75.0,"Animation, Adventure, Science Fiction",04/28/2022 ,1h 41m,Kenji Takahashi,https://www.themoviedb.org/movie/912598
+138,Pinocchio,66.0,"Fantasy, Adventure, Family",09/08/2022 ,1h 45m,Robert Zemeckis,https://www.themoviedb.org/movie/532639-pinocchio
+139,Hotel Transylvania: Transformania,71.0,"Animation, Comedy, Family, Fantasy, Adventure",02/25/2022 ,1h 27m,Derek Drymon,https://www.themoviedb.org/movie/585083-hotel-transylvania-transformania
+140,Teasing Master Takagi-san: The Movie,87.0,"Animation, Comedy, Romance",06/10/2022 ,1h 13m,Hiroaki Akagi,https://www.themoviedb.org/movie/938567
+141,Paws of Fury: The Legend of Hank,67.0,"Family, Comedy, Animation, Action",07/22/2022 ,1h 38m,Chris Bailey,https://www.themoviedb.org/movie/366672-paws-of-fury-the-legend-of-hank
+142,Strange World,64.0,"Animation, Science Fiction, Adventure, Family",11/23/2022 ,1h 42m,Qui Nguyen,https://www.themoviedb.org/movie/877269-strange-world
+143,The Ledge,62.0,"Thriller, Adventure, Mystery, Action, Crime",06/15/2022 ,1h 26m,Howard J. Ford,https://www.themoviedb.org/movie/924482-the-ledge
+144,Christmas with You,58.0,"Romance, Comedy",11/17/2022 ,1h 31m,Kyle Burstein,https://www.themoviedb.org/movie/936960-christmas-with-you
+145,The Addams Family 2,71.0,"Animation, Adventure, Comedy, Family, Fantasy, Horror",10/01/2021 ,1h 33m,Conrad Vernon,https://www.themoviedb.org/movie/639721-the-addams-family-2
+146,Addams Family Values,69.0,"Comedy, Family, Fantasy",11/19/1993 ,1h 34m,Barry Sonnenfeld,https://www.themoviedb.org/movie/2758-addams-family-values
+147,Fullmetal Alchemist: The Revenge of Scar,69.0,"Fantasy, Action, Adventure",05/20/2022 ,2h 5m,Fumihiko Sori,https://www.themoviedb.org/movie/960700
+148,White Elephant,66.0,"Action, Crime, Thriller",09/22/2022 ,1h 33m,Jesse V. Johnson,https://www.themoviedb.org/movie/843633-white-elephant
+149,Harry Potter and the Philosopher's Stone,79.0,"Adventure, Fantasy",04/12/2002 ,2h 32m,R.J. Mino,https://www.themoviedb.org/movie/671-harry-potter-and-the-philosopher-s-stone
+150,"Monica, O My Darling",76.0,"Crime, Comedy, Drama",11/11/2022 ,2h 9m,Vasan Bala,https://www.themoviedb.org/movie/915831
+151,RRR,78.0,"Action, Drama",03/25/2022 ,3h 7m,S. S. Rajamouli,https://www.themoviedb.org/movie/579974
+152,Bullet Proof,56.0,"Action, Crime",08/25/2022 ,1h 21m,James Clayton,https://www.themoviedb.org/movie/993145-bullet-proof
+153,A Christmas Story Christmas,60.0,"Family, Comedy, Drama",12/08/2022 ,1h 38m,Clay Kaytis,https://www.themoviedb.org/movie/929340-a-christmas-story-christmas
+154,End of the Road,64.0,"Thriller, Drama, Crime",09/09/2022 ,1h 29m,Millicent Shelton,https://www.themoviedb.org/movie/773975-end-of-the-road
+155,My Hero Academia: World Heroes' Mission,76.0,"Animation, Action, Adventure, Science Fiction",08/06/2021 ,1h 45m,Kenji Nagasaki,https://www.themoviedb.org/movie/768744-the-movie
+156,Wakanda,80.0,Music,07/06/2018 ,Null,Ahmed Amrani,https://www.themoviedb.org/movie/950044-wakanda
+157,The Hip Hop Nutcracker,50.0,Music,11/25/2022 ,44m,Elizabeth Avellan,https://www.themoviedb.org/movie/1023803-the-hip-hop-nutcracker
+158,Fantastic Beasts: The Secrets of Dumbledore,68.0,"Fantasy, Adventure, Action",04/15/2022 ,2h 22m,David Yates,https://www.themoviedb.org/movie/338953-fantastic-beasts-the-secrets-of-dumbledore
+159,The Fallout,75.0,Drama,01/27/2022 ,1h 36m,Megan Park,https://www.themoviedb.org/movie/795514-the-fallout
+160,Avengers: Infinity War,83.0,"Adventure, Action, Science Fiction",04/27/2018 ,2h 29m,Anthony Russo,https://www.themoviedb.org/movie/299536-avengers-infinity-war
+161,The Northman,72.0,"Action, Adventure, Fantasy",04/22/2022 ,2h 17m,James Harris,https://www.themoviedb.org/movie/639933-the-northman
+162,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,85.0,"Animation, Fantasy, Adventure",11/25/2022 ,Null,Yasuhito Kikuchi,https://www.themoviedb.org/movie/876792
+163,Stowaway,68.0,"Thriller, Action",08/31/2022 ,1h 34m,Declan Whitebloom,https://www.themoviedb.org/movie/999205-stowaway
+164,Day Shift,69.0,"Action, Fantasy, Horror, Comedy",08/12/2022 ,1h 53m,J.J. Perry,https://www.themoviedb.org/movie/755566-day-shift
+165,The princess,74.0,Action,08/05/2022 ,Null,Alonso O. Lara,https://www.themoviedb.org/movie/1008779-la-princesa
+166,Welcome to the Club,67.0,"Animation, Comedy",09/08/2022 ,4m,David Silverman,https://www.themoviedb.org/movie/1015602-welcome-to-the-club
+167,The Lost City,67.0,"Action, Adventure, Comedy",03/25/2022 ,1h 52m,Aaron Nee,https://www.themoviedb.org/movie/752623-the-lost-city
+168,Wire Room,68.0,"Action, Adventure, Crime, Mystery, Thriller",09/02/2022 ,1h 37m,Matt Eskandari,https://www.themoviedb.org/movie/921360-wire-room
+169,X,68.0,"Horror, Mystery, Thriller",03/18/2022 ,1h 46m,Ti West,https://www.themoviedb.org/movie/760104-x
+170,Halloween Ends,65.0,"Horror, Thriller",10/14/2022 ,1h 51m,David Gordon Green,https://www.themoviedb.org/movie/616820-halloween-ends
+171,Don't Come Back Alive,61.0,"Thriller, Fantasy, Horror",09/29/2022 ,1h 25m,Néstor Sánchez Sotelo,https://www.themoviedb.org/movie/812488-mete-miedo
+172,Black Site,69.0,"Action, Thriller",06/30/2022 ,1h 39m,Sophia Banks,https://www.themoviedb.org/movie/848123-black-site
+173,Project Wolf Hunting,66.0,"Science Fiction, Action, Thriller",09/28/2022 ,2h 2m,Kim Hong-sun,https://www.themoviedb.org/movie/799379
+174,Harry Potter and the Half-Blood Prince,77.0,"Adventure, Fantasy",07/07/2009 ,2h 33m,David Yates,https://www.themoviedb.org/movie/767-harry-potter-and-the-half-blood-prince
+175,Monster High: The Movie,72.0,"Adventure, Family, TV Movie",10/06/2022 ,1h 31m,Todd Holland,https://www.themoviedb.org/movie/335795-monster-high-the-movie
+176,Trick or Treat Scooby-Doo!,73.0,"Adventure, Mystery, Comedy, Animation, Family",10/04/2022 ,1h 18m,Audie Harrison,https://www.themoviedb.org/movie/1015724-trick-or-treat-scooby-doo
+177,Your Boyfriend Is Mine,68.0,"Thriller, TV Movie, Action",03/19/2022 ,1h 25m,Stacia Crawford,https://www.themoviedb.org/movie/951368-your-boyfriend-is-mine
+178,The Next 365 Days,66.0,"Romance, Drama",08/19/2022 ,1h 52m,Adrianna Bartkowska,https://www.themoviedb.org/movie/829560-kolejne-365-dni
+179,The Boss Baby: Family Business,75.0,"Animation, Comedy, Adventure, Family",07/02/2021 ,1h 47m,Tom McGrath,https://www.themoviedb.org/movie/459151-the-boss-baby-family-business
+180,I Don't Like Younger Men 5,83.0,Romance,04/23/2020 ,1h 21m,Kye Jang-hyuk,https://www.themoviedb.org/movie/698343-5
+181,The Bad Guys,77.0,"Animation, Action, Adventure, Crime, Comedy",04/22/2022 ,1h 40m,Pierre Perifel,https://www.themoviedb.org/movie/629542-the-bad-guys
+182,Harry Potter and the Chamber of Secrets,77.0,"Adventure, Fantasy",04/25/2003 ,2h 41m,Rob Burgess,https://www.themoviedb.org/movie/672-harry-potter-and-the-chamber-of-secrets
+183,Avatar: Creating the World of Pandora,74.0,Documentary,02/07/2010 ,23m,Thomas C. Grane,https://www.themoviedb.org/movie/111332-avatar-creating-the-world-of-pandora
+184,Lightyear,72.0,"Animation, Action, Adventure, Family, Science Fiction",06/17/2022 ,1h 45m,Angus MacLane,https://www.themoviedb.org/movie/718789-lightyear
+185,Don't Worry Darling,69.0,"Thriller, Mystery, Science Fiction",09/23/2022 ,2h 3m,Olivia Wilde,https://www.themoviedb.org/movie/619730-don-t-worry-darling
+186,Young Sister-In-Law 5,71.0,Romance,11/20/2019 ,1h 13m,Choi Woo-seong,https://www.themoviedb.org/movie/652575-5
+187,Laid-Back Camp The Movie,81.0,"Animation, Comedy",07/01/2022 ,2h,Koki Takahashi,https://www.themoviedb.org/movie/566466
+188,Cruella,81.0,"Comedy, Crime",05/28/2021 ,2h 14m,Craig Gillespie,https://www.themoviedb.org/movie/337404-cruella
+189,Memory,71.0,"Action, Thriller, Crime",04/29/2022 ,1h 54m,Martin Campbell,https://www.themoviedb.org/movie/818397-memory
+190,The Princess,69.0,"Fantasy, Action",07/01/2022 ,1h 34m,Lê Văn Kiệt,https://www.themoviedb.org/movie/759175-the-princess
+191,The Wonder,68.0,"Mystery, Thriller, Drama",11/04/2022 ,1h 49m,Sebastián Lelio,https://www.themoviedb.org/movie/823766-the-wonder
+192,Harry Potter and the Goblet of Fire,78.0,"Adventure, Fantasy, Family",11/18/2005 ,2h 37m,Nick Shuttleworth,https://www.themoviedb.org/movie/674-harry-potter-and-the-goblet-of-fire
+193,The Girl from the Other Side,64.0,"Animation, Drama, Mystery, Fantasy",03/10/2022 ,1h 10m,Satomi Maiya,https://www.themoviedb.org/movie/802699
+194,The People We Hate at the Wedding,62.0,Comedy,11/18/2022 ,1h 39m,Claire Scanlon,https://www.themoviedb.org/movie/802372-the-people-we-hate-at-the-wedding
+195,Uncharted,71.0,"Action, Adventure",02/18/2022 ,1h 56m,Mathias Datow,https://www.themoviedb.org/movie/335787-uncharted
+196,How the Grinch Stole Christmas,67.0,"Family, Comedy, Fantasy",11/17/2000 ,1h 44m,Ron Howard,https://www.themoviedb.org/movie/8871-how-the-grinch-stole-christmas
+197,Barbarian,70.0,"Horror, Thriller",09/09/2022 ,1h 43m,Zach Cregger,https://www.themoviedb.org/movie/913290-barbarian
+198,Sing 2,80.0,"Animation, Adventure, Comedy",12/22/2021 ,1h 50m,Garth Jennings,https://www.themoviedb.org/movie/438695-sing-2
+199,Last Seen Alive,66.0,"Action, Thriller",05/19/2022 ,1h 35m,Brian Goodman,https://www.themoviedb.org/movie/961484-last-seen-alive
+200,365 Days: This Day,59.0,"Romance, Drama",04/27/2022 ,1h 51m,Barbara Bialowas,https://www.themoviedb.org/movie/829557-365-days-this-day
+201,The Addams Family,67.0,"Family, Animation, Comedy, Fantasy, Horror",10/11/2019 ,1h 26m,Conrad Vernon,https://www.themoviedb.org/movie/481084-the-addams-family
+202,Venom: Let There Be Carnage,69.0,"Science Fiction, Action, Adventure",10/01/2021 ,1h 37m,Andy Serkis,https://www.themoviedb.org/movie/580489-venom-let-there-be-carnage
+203,The Aviary,59.0,Thriller,04/29/2022 ,1h 35m,Chris Cullari,https://www.themoviedb.org/movie/952374-the-aviary
+204,You Won't Be Alone,66.0,"Horror, Drama, History",09/22/2022 ,1h 49m,Goran Stolevski,https://www.themoviedb.org/movie/883083-you-won-t-be-alone
+205,Harry Potter and the Prisoner of Azkaban,80.0,"Adventure, Fantasy",06/04/2004 ,2h 21m,Janette Boyle,https://www.themoviedb.org/movie/673-harry-potter-and-the-prisoner-of-azkaban
+206,Hunting Ava Bravo,64.0,"Horror, Thriller, Action, Adventure, Crime, Mystery, Drama, War",04/01/2022 ,1h 30m,Gary Auerbach,https://www.themoviedb.org/movie/927341-hunting-ava-bravo
+207,Morbius,63.0,"Action, Science Fiction, Fantasy",04/01/2022 ,1h 45m,Daniel Espinosa,https://www.themoviedb.org/movie/526896-morbius
+208,11th Hour Cleaning,55.0,Horror,07/05/2022 ,1h 12m,Ty Leisher,https://www.themoviedb.org/movie/982317-11th-hour-cleaning
+209,Shang-Chi and the Legend of the Ten Rings,76.0,"Action, Adventure, Fantasy",09/03/2021 ,2h 12m,Destin Daniel Cretton,https://www.themoviedb.org/movie/566525-shang-chi-and-the-legend-of-the-ten-rings
+210,Coco,82.0,"Family, Animation, Fantasy, Music, Comedy, Adventure",11/24/2017 ,1h 45m,Adrian Molina,https://www.themoviedb.org/movie/354912-coco
+211,Exchange Sex With A Friend Couple,0.0,"Romance, Drama",06/21/2019 ,1h,Jung Min-yong,https://www.themoviedb.org/movie/860419
+212,"The Gangster, the Cop, the Devil",77.0,"Crime, Action, Adventure",05/15/2019 ,1h 50m,Lee Won-tae,https://www.themoviedb.org/movie/581528
+213,Looks Can Kill,45.0,Thriller,02/01/2022 ,1h 44m,Jasmine Ebony Thomas,https://www.themoviedb.org/movie/968857-looks-can-kill
+214,Office Invasion,58.0,"Science Fiction, Comedy, Action",08/10/2022 ,1h 52m,Fred Wolmarans,https://www.themoviedb.org/movie/1006851-office-invasion
+215,The Seven Deadly Sins: Cursed by Light,78.0,"Animation, Fantasy",07/02/2021 ,1h 19m,Takayuki Hamana,https://www.themoviedb.org/movie/843241
+216,"Watch Out, We're Mad",54.0,"Comedy, Action",03/23/2022 ,1h 30m,Antonio Usbergo,https://www.themoviedb.org/movie/838197-altrimenti-ci-arrabbiamo
+217,Curious Caterer: Dying for Chocolate,64.0,"TV Movie, Mystery",11/17/2022 ,1h 24m,Anthony C. Metchie,https://www.themoviedb.org/movie/936897-curious-caterer-dying-for-chocolate
+218,The Jack in the Box: Awakening,63.0,Horror,02/24/2022 ,1h 29m,Lawrence Fowler,https://www.themoviedb.org/movie/801071-the-jack-in-the-box-awakening
+219,Harry Potter and the Deathly Hallows: Part 2,81.0,"Fantasy, Adventure",07/07/2011 ,2h 10m,David Yates,https://www.themoviedb.org/movie/12445-harry-potter-and-the-deathly-hallows-part-2
+220,The Grinch,68.0,"Animation, Family, Comedy, Fantasy",11/09/2018 ,1h 25m,Scott Mosier,https://www.themoviedb.org/movie/360920-the-grinch
+221,Japanese Woman is Cheap in the Next Room,70.0,"Drama, Romance",07/09/2020 ,1h 1m,Shin Hyo-sung,https://www.themoviedb.org/movie/725405
+222,Violent Night,70.0,"Action, Comedy",12/02/2022 ,1h 52m,Tommy Wirkola,https://www.themoviedb.org/movie/899112-violent-night
+223,The Trapped 13: How We Survived The Thai Cave,65.0,Documentary,10/05/2022 ,1h 42m,Pailin Wedel,https://www.themoviedb.org/movie/1025169-13
+224,Moonfall,64.0,Science Fiction,02/04/2022 ,2h 10m,Roland Emmerich,https://www.themoviedb.org/movie/406759-moonfall
+225,The Forgiven,60.0,Drama,09/02/2022 ,1h 57m,John Michael McDonagh,https://www.themoviedb.org/movie/522927-the-forgiven
+226,Hacksaw Ridge,82.0,"Drama, History, War",12/16/2016 ,2h 19m,Mel Gibson,https://www.themoviedb.org/movie/324786-hacksaw-ridge
+227,Troll,96.0,"Action, Adventure, Fantasy",12/01/2022 ,1h 43m,Roar Uthaug,https://www.themoviedb.org/movie/736526-troll
+228,The Ice Age Adventures of Buck Wild,67.0,"Animation, Comedy, Adventure, Family",01/28/2022 ,1h 22m,John C. Donkin,https://www.themoviedb.org/movie/774825-the-ice-age-adventures-of-buck-wild
+229,After We Fell,71.0,"Romance, Drama",09/30/2021 ,1h 39m,Castille Landon,https://www.themoviedb.org/movie/744275-after-we-fell
+230,The Man from Toronto,66.0,"Action, Comedy",06/24/2022 ,1h 53m,Patrick Hughes,https://www.themoviedb.org/movie/667739-the-man-from-toronto
+231,Grimcutty,56.0,Horror,10/10/2022 ,1h 41m,John Ross,https://www.themoviedb.org/movie/1024530-grimcutty
+232,Terrifier,66.0,Horror,08/09/2011 ,20m,Damien Leone,https://www.themoviedb.org/movie/86328-terrifier
+233,Avatar: Scene Deconstruction,83.0,Documentary,12/18/2009 ,Null,Damien Leone,https://www.themoviedb.org/movie/287003-avatar-scene-deconstruction
+234,Ticket to Paradise,70.0,"Romance, Comedy",10/21/2022 ,1h 44m,Ol Parker,https://www.themoviedb.org/movie/800939-ticket-to-paradise
+235,Run Sweetheart Run,60.0,"Thriller, Horror",10/28/2022 ,1h 43m,Shana Feste,https://www.themoviedb.org/movie/532870-run-sweetheart-run
+236,The Sword in the Stone,72.0,"Animation, Family",12/25/1963 ,1h 19m,Wolfgang Reitherman,https://www.themoviedb.org/movie/9078-the-sword-in-the-stone
+237,Godzilla vs. Kong,77.0,"Action, Fantasy, Science Fiction",03/24/2021 ,1h 54m,Ashley Douglass,https://www.themoviedb.org/movie/399566-godzilla-vs-kong
+238,The Proposal,71.0,"Comedy, Romance, Drama",06/01/2009 ,1h 48m,Anne Fletcher,https://www.themoviedb.org/movie/18240-the-proposal
+239,Harry Potter and the Order of the Phoenix,77.0,"Adventure, Fantasy, Mystery",07/03/2007 ,2h 18m,David Yates,https://www.themoviedb.org/movie/675-harry-potter-and-the-order-of-the-phoenix
+240,Mortal Kombat Legends: Snow Blind,80.0,"Animation, Action, Fantasy",10/09/2022 ,1h 22m,Rick Morales,https://www.themoviedb.org/movie/1007401-mortal-kombat-legends-snow-blind
+241,After,72.0,"Romance, Drama",04/12/2019 ,1h 46m,Jenny Gage,https://www.themoviedb.org/movie/537915-after
+242,The Chalk Line,63.0,"Horror, Thriller, Mystery",09/09/2022 ,1h 46m,Ignacio Tatay,https://www.themoviedb.org/movie/960875-jaula
+243,Psychosexual,20.0,Thriller,05/12/2022 ,1h 33m,Marco Vélez Esquivia,https://www.themoviedb.org/movie/834734-sicosexual
+244,Zack Snyder's Justice League,82.0,"Action, Adventure, Fantasy, Science Fiction",03/18/2021 ,4h 2m,Zack Snyder,https://www.themoviedb.org/movie/791373-zack-snyder-s-justice-league
+245,Pamasahe,0.0,,12/09/2022 ,Null,Roman Perez Jr.,https://www.themoviedb.org/movie/1041898-pamasahe
+246,Harry Potter and the Deathly Hallows: Part 1,78.0,"Adventure, Fantasy",11/19/2010 ,2h 26m,David Yates,https://www.themoviedb.org/movie/12444-harry-potter-and-the-deathly-hallows-part-1
+247,Eternals,70.0,"Science Fiction, Action, Adventure",11/05/2021 ,2h 36m,Chloé Zhao,https://www.themoviedb.org/movie/524434-eternals
+248,Bones and All,75.0,"Romance, Drama, Horror",11/25/2022 ,2h 11m,Ryan Brunner,https://www.themoviedb.org/movie/791177-bones-and-all
+249,The Gray Man,70.0,"Action, Thriller",07/13/2022 ,2h 8m,Anthony Russo,https://www.themoviedb.org/movie/725201-the-gray-man
+250,Hellhole,60.0,Horror,10/26/2022 ,1h 30m,Bartosz M. Kowalski,https://www.themoviedb.org/movie/1032950-ostatnia-wieczerza
+251,Be My Slave,56.0,"Drama, Romance, Comedy",11/03/2012 ,1h 52m,Toru Kamei,https://www.themoviedb.org/movie/179058
+252,Amsterdam,61.0,"Crime, Comedy, History, Mystery, Thriller",10/07/2022 ,2h 14m,David O. Russell,https://www.themoviedb.org/movie/664469-amsterdam
+253,Dragon Knight,71.0,"Fantasy, Adventure, Action",03/21/2022 ,1h 39m,Lawrie Brewster,https://www.themoviedb.org/movie/919355-dragon-knight
+254,Clifford the Big Red Dog,73.0,"Family, Adventure, Comedy, Fantasy",11/10/2021 ,1h 37m,Walt Becker,https://www.themoviedb.org/movie/585245-clifford-the-big-red-dog
+255,The Sea Beast,76.0,"Animation, Adventure, Family, Fantasy",06/24/2022 ,1h 59m,Chris Williams,https://www.themoviedb.org/movie/560057-the-sea-beast
+256,Deinfluencer,60.0,"Horror, Thriller",10/01/2022 ,2h,Jamie Bailey,https://www.themoviedb.org/movie/969160-deinfluencer
+257,"Monsters, Inc.",78.0,"Animation, Comedy, Family",11/02/2001 ,1h 32m,David Silverman,https://www.themoviedb.org/movie/585-monsters-inc
+258,The Exorcism of God,72.0,Horror,03/31/2022 ,1h 38m,Alejandro Hidalgo,https://www.themoviedb.org/movie/836225-the-exorcism-of-god
+259,Inside Out,79.0,"Animation, Family, Adventure, Drama, Comedy",06/26/2015 ,1h 35m,Ronnie del Carmen,https://www.themoviedb.org/movie/150540-inside-out
+260,Catch the Fair One,65.0,"Crime, Thriller, Drama",02/11/2022 ,1h 25m,Josef Wladyka,https://www.themoviedb.org/movie/821420-catch-the-fair-one
+261,Weird: The Al Yankovic Story,69.0,"Comedy, Music, Drama",11/04/2022 ,1h 48m,Eric Appel,https://www.themoviedb.org/movie/928344-weird-the-al-yankovic-story
+262,Superman/Shazam!: The Return of Black Adam,71.0,"Animation, Action, Science Fiction, Fantasy",11/16/2010 ,25m,Joaquim Dos Santos,https://www.themoviedb.org/movie/43641-superman-shazam-the-return-of-black-adam
+263,Mamá no enRedes,60.0,Comedy,07/01/2022 ,1h 52m,Daniela Féjerman,https://www.themoviedb.org/movie/942999-mama-no-enredes
+264,V/H/S/99,63.0,"Horror, Thriller",10/20/2022 ,1h 39m,Flying Lotus,https://www.themoviedb.org/movie/1005776-v-h-s-99
+265,Demon Slayer: Kimetsu no Yaiba Sibling's Bond,83.0,"Action, Animation, Fantasy",03/29/2019 ,1h 45m,Haruo Sotozaki,https://www.themoviedb.org/movie/820232
+266,Red Notice,68.0,"Action, Comedy, Crime, Thriller",11/05/2021 ,1h 58m,Rawson Marshall Thurber,https://www.themoviedb.org/movie/512195-red-notice
+267,Groot's First Steps,73.0,"Animation, Family, Comedy, Science Fiction",08/10/2022 ,6m,Kirsten Lepore,https://www.themoviedb.org/movie/1010818-groot-s-first-steps
+268,The King's Man,68.0,"Action, Adventure, Thriller, War, Mystery",01/14/2022 ,2h 11m,Matthew Vaughn,https://www.themoviedb.org/movie/476669-the-king-s-man
+269,My Sweet Monster,63.0,"Animation, Adventure, Family",04/28/2022 ,1h 38m,Maksim Volkov,https://www.themoviedb.org/movie/576925
+270,Shrek,77.0,"Animation, Comedy, Fantasy, Adventure, Family",05/18/2001 ,1h 30m,Andrew Adamson,https://www.themoviedb.org/movie/808-shrek
+271,The Lion King,83.0,"Family, Animation, Drama",10/10/1994 ,1h 29m,Rob Minkoff,https://www.themoviedb.org/movie/8587-the-lion-king
+272,Ratatouille,78.0,"Animation, Comedy, Family, Fantasy",06/29/2007 ,1h 51m,Jan Pinkava,https://www.themoviedb.org/movie/2062-ratatouille
+273,Selena Gomez: My Mind & Me,85.0,"Documentary, Music",11/04/2022 ,1h 35m,Alek Keshishian,https://www.themoviedb.org/movie/1022256-selena-gomez-my-mind-me
+274,After We Collided,72.0,"Romance, Drama",09/02/2020 ,1h 45m,Roger Kumble,https://www.themoviedb.org/movie/613504-after-we-collided
+275,Offseason,58.0,"Horror, Mystery",03/11/2022 ,1h 23m,Jorge L. Rivera,https://www.themoviedb.org/movie/796256-offseason
+276,Borrego,59.0,"Crime, Thriller",01/14/2022 ,1h 42m,Jesse Harris,https://www.themoviedb.org/movie/728366-borrego
+277,Ted 2,63.0,"Comedy, Fantasy",06/26/2015 ,1h 55m,Seth MacFarlane,https://www.themoviedb.org/movie/214756-ted-2
+278,Wife's Mom 2,0.0,"Drama, Romance",01/14/2019 ,1h 8m,Kim Bit-na,https://www.themoviedb.org/movie/770903-2
+279,Luca,79.0,"Animation, Comedy, Family, Fantasy",06/17/2021 ,1h 35m,Enrico Casarosa,https://www.themoviedb.org/movie/508943-luca
+280,The Matrix Resurrections,66.0,"Science Fiction, Action, Adventure",12/22/2021 ,2h 27m,Lana Wachowski,https://www.themoviedb.org/movie/624860-the-matrix-resurrections
+281,John Wick: Chapter 2,73.0,"Action, Thriller, Crime",02/24/2017 ,2h 2m,Chad Stahelski,https://www.themoviedb.org/movie/324552-john-wick-chapter-2
+282,Emergency Declaration,78.0,"Drama, Action",08/03/2022 ,2h 20m,Han Jae-rim,https://www.themoviedb.org/movie/626872
+283,Iron Man 2,68.0,"Adventure, Action, Science Fiction",05/07/2010 ,2h 4m,Jon Favreau,https://www.themoviedb.org/movie/10138-iron-man-2
+284,The Avengers,77.0,"Science Fiction, Action, Adventure",04/27/2012 ,2h 23m,Joss Whedon,https://www.themoviedb.org/movie/24428-the-avengers
+285,Puss in Boots: The Last Wish,0.0,"Animation, Adventure, Comedy, Family, Fantasy",12/21/2022 ,1h 44m,Januel Mercado,https://www.themoviedb.org/movie/315162-puss-in-boots-the-last-wish
+286,The Twilight Saga: Eclipse,62.0,"Adventure, Fantasy, Drama, Romance",06/23/2010 ,2h 4m,David Slade,https://www.themoviedb.org/movie/24021-the-twilight-saga-eclipse
+287,Bright: Samurai Soul,57.0,"Animation, Action, Fantasy",10/12/2021 ,1h 20m,Kyohei Ishiguro,https://www.themoviedb.org/movie/839100
+288,Sing a Bit of Harmony,75.0,"Animation, Drama, Science Fiction",10/29/2021 ,1h 49m,Yasuhiro Yoshiura,https://www.themoviedb.org/movie/741335
+289,Nope,69.0,"Horror, Mystery, Science Fiction, Thriller",08/19/2022 ,2h 10m,Jordan Peele,https://www.themoviedb.org/movie/762504-nope
+290,Avengers: Endgame,83.0,"Adventure, Science Fiction, Action",04/26/2019 ,3h 1m,Anthony Russo,https://www.themoviedb.org/movie/299534-avengers-endgame
+291,Barbie: Mermaid Power,73.0,Animation,10/14/2022 ,1h 4m,Ron Myrick,https://www.themoviedb.org/movie/1012801-barbie-mermaid-power
+292,The Roundup,73.0,"Crime, Action",05/18/2022 ,1h 46m,Lee Sang-yong,https://www.themoviedb.org/movie/619803-2
+293,The Suicide Squad,76.0,"Action, Comedy, Adventure",08/06/2021 ,2h 12m,James Gunn,https://www.themoviedb.org/movie/436969-the-suicide-squad
+294,Selina's Gold,71.0,Drama,10/24/2022 ,1h 53m,Mac Alejandre,https://www.themoviedb.org/movie/1029446-selina-s-gold
+295,Werewolf by Night,71.0,"Action, Fantasy, Horror, TV Movie",10/07/2022 ,55m,Michael Giacchino,https://www.themoviedb.org/movie/894205-werewolf-by-night
+296,The Adam Project,71.0,"Adventure, Science Fiction",03/11/2022 ,1h 46m,Shawn Levy,https://www.themoviedb.org/movie/696806-the-adam-project
+297,Zootopia,77.0,"Animation, Adventure, Family, Comedy",03/04/2016 ,1h 49m,Jared Bush,https://www.themoviedb.org/movie/269149-zootopia
+298,One Week Friends,67.0,Drama,06/18/2022 ,1h 46m,Gavin Lin,https://www.themoviedb.org/movie/945675
+299,Dragon Ball Z: Resurrection 'F',68.0,"Action, Animation, Science Fiction",04/18/2015 ,1h 33m,Yasunori Goto,https://www.themoviedb.org/movie/303857-z-f
+300,The Contractor,65.0,"Action, Thriller",03/10/2022 ,1h 43m,Tarik Saleh,https://www.themoviedb.org/movie/628900-the-contractor
+301,Toy Story,80.0,"Animation, Adventure, Family, Comedy",11/22/1995 ,1h 21m,John Lasseter,https://www.themoviedb.org/movie/862-toy-story
+302,Franco Escamilla: Eavesdropping,87.0,Comedy,10/23/2022 ,2h 2m,Claude Shires,https://www.themoviedb.org/movie/1039026-franco-escamilla-voyerista-auditivo
+303,Shrek 2,72.0,"Animation, Family, Comedy, Fantasy, Adventure",08/20/2004 ,1h 33m,Andrew Adamson,https://www.themoviedb.org/movie/809-shrek-2
+304,Boruto: Naruto the Movie,76.0,"Animation, Action, Comedy",08/07/2015 ,1h 35m,Hiroyuki Yamashita,https://www.themoviedb.org/movie/347201-boruto-naruto-the-movie
+305,Shark Bait,60.0,"Horror, Thriller, Action, Adventure",06/30/2022 ,1h 27m,James Nunn,https://www.themoviedb.org/movie/960258-shark-bait
+306,Vesper,67.0,"Science Fiction, Drama, Adventure",08/17/2022 ,1h 52m,Bruno Samper,https://www.themoviedb.org/movie/976720-vesper
+307,Guardians of the Galaxy Vol. 2,76.0,"Adventure, Action, Science Fiction",05/05/2017 ,2h 17m,Carolina Jiménez,https://www.themoviedb.org/movie/283995-guardians-of-the-galaxy-vol-2
+308,Coraline,78.0,"Animation, Family, Fantasy",02/06/2009 ,1h 40m,Yona Prost,https://www.themoviedb.org/movie/14836-coraline
+309,Adanis: Kutsal Kavga,54.0,"Drama, Action, Adventure",03/11/2022 ,2h 2m,Emir Khalilzadeh,https://www.themoviedb.org/movie/978436-adanis-kutsal-kavga
+310,The Twilight Saga: Breaking Dawn - Part 2,65.0,"Adventure, Fantasy, Drama, Romance",11/16/2012 ,1h 55m,Bill Condon,https://www.themoviedb.org/movie/50620-the-twilight-saga-breaking-dawn-part-2
+311,Desire,59.0,"Drama, Romance",06/06/2013 ,1h 43m,Laurent Bouhnik,https://www.themoviedb.org/movie/86331-q
+312,Homebound,38.0,"Mystery, Drama, Horror",09/15/2022 ,1h 11m,Sebastian Godwin,https://www.themoviedb.org/movie/484907-homebound
+313,Taken 3,62.0,"Thriller, Action",01/08/2015 ,1h 49m,Sandie Louit,https://www.themoviedb.org/movie/260346-taken-3
+314,Nightcrawler,77.0,"Crime, Drama, Thriller",10/31/2014 ,1h 58m,Dan Gilroy,https://www.themoviedb.org/movie/242582-nightcrawler
+315,The Deer King,60.0,"Animation, Drama, Adventure, Fantasy",02/04/2022 ,1h 53m,Taisuke Mamori,https://www.themoviedb.org/movie/633844
+316,Naruto Shippuden the Movie,73.0,"Animation, Action, Fantasy",08/04/2007 ,1h 34m,Hajime Kamegaki,https://www.themoviedb.org/movie/20982-naruto
+317,Twilight,63.0,"Fantasy, Drama, Romance",11/21/2008 ,2h 2m,Catherine Hardwicke,https://www.themoviedb.org/movie/8966-twilight
+318,Resident Evil: Welcome to Raccoon City,61.0,"Horror, Science Fiction, Action",11/26/2021 ,1h 47m,Abel Erazo-Ibarra,https://www.themoviedb.org/movie/460458-resident-evil-welcome-to-raccoon-city
+319,Spiderhead,58.0,"Science Fiction, Thriller",06/17/2022 ,1h 46m,Joseph Kosinski,https://www.themoviedb.org/movie/615469-spiderhead
+320,Halfaouine: Boy of the Terraces,68.0,"Comedy, Drama",09/14/1990 ,1h 38m,Férid Boughedir,https://www.themoviedb.org/movie/44281
+321,Spirit Halloween: The Movie,68.0,"Horror, Fantasy, Adventure, Family",10/11/2022 ,1h 27m,David Poag,https://www.themoviedb.org/movie/961427-spirit-halloween-the-movie
+322,PAW Patrol: The Movie,75.0,"Animation, Family, Adventure, Comedy",08/20/2021 ,1h 26m,Cal Brunker,https://www.themoviedb.org/movie/675445-paw-patrol-the-movie
+323,The Last: Naruto the Movie,78.0,"Action, Romance, Animation",12/06/2014 ,1h 54m,Tsuneo Kobayashi,https://www.themoviedb.org/movie/317442-the-last-naruto-the-movie
+324,I Don't Like Younger Men,50.0,Romance,01/01/2017 ,1h 22m,Choi Woo-seong,https://www.themoviedb.org/movie/437542
+325,Father There Is Only One 3,77.0,"Comedy, Family",07/15/2022 ,1h 39m,Santiago Segura,https://www.themoviedb.org/movie/975120-padre-no-hay-mas-que-uno-3
+326,Lesson Plan,60.0,"Crime, Thriller",11/23/2022 ,1h 41m,Daniel Markowicz,https://www.themoviedb.org/movie/1049233-plan-lekcji
+327,Interstellar,84.0,"Adventure, Drama, Science Fiction",11/07/2014 ,2h 49m,Dillon Neaman,https://www.themoviedb.org/movie/157336-interstellar
+328,Big Hero 6,77.0,"Adventure, Family, Animation, Action, Comedy",11/07/2014 ,1h 42m,Chris Williams,https://www.themoviedb.org/movie/177572-big-hero-6
+329,Brothers,72.0,"Drama, Thriller, War",12/02/2009 ,1h 45m,Jim Sheridan,https://www.themoviedb.org/movie/7445-brothers
+330,Home Alone 2: Lost in New York,67.0,"Comedy, Family, Adventure",11/19/1992 ,2h,Chris Columbus,https://www.themoviedb.org/movie/772-home-alone-2-lost-in-new-york
+331,Armageddon Time,69.0,Drama,11/04/2022 ,1h 54m,James Gray,https://www.themoviedb.org/movie/615952-armageddon-time
+332,Ice Age,73.0,"Animation, Comedy, Family, Adventure",05/03/2002 ,1h 21m,Carlos Saldanha,https://www.themoviedb.org/movie/425-ice-age
+333,Titanic,79.0,"Drama, Romance",04/06/2012 ,3h 14m,James Cameron,https://www.themoviedb.org/movie/597-titanic
+334,The Requin,51.0,"Thriller, Horror",01/28/2022 ,1h 29m,Lê Văn Kiệt,https://www.themoviedb.org/movie/803114-the-requin
+335,The Meg,62.0,"Action, Science Fiction, Horror",08/10/2018 ,1h 53m,Jon Turteltaub,https://www.themoviedb.org/movie/345940-the-meg
+336,Sniper: Rogue Mission,69.0,"Action, Thriller, Mystery",08/16/2022 ,1h 36m,Oliver Thompson,https://www.themoviedb.org/movie/997120-sniper-rogue-mission
+337,Sonic the Hedgehog,74.0,"Action, Science Fiction, Comedy, Family",02/14/2020 ,1h 39m,Haley Lauten,https://www.themoviedb.org/movie/454626-sonic-the-hedgehog
+338,Code Name: Emperor,59.0,"Drama, Thriller",03/18/2022 ,1h 45m,Jorge Coira,https://www.themoviedb.org/movie/769636-codigo-emperador
+339,John Wick: Chapter 3 - Parabellum,74.0,"Action, Thriller, Crime",05/17/2019 ,2h 10m,Chad Stahelski,https://www.themoviedb.org/movie/458156-john-wick-chapter-3-parabellum
+340,Scream,67.0,"Horror, Mystery, Thriller",01/14/2022 ,1h 54m,Matt Bettinelli-Olpin,https://www.themoviedb.org/movie/646385-scream
+341,Deadpool,76.0,"Action, Adventure, Comedy",02/12/2016 ,1h 48m,Tim Miller,https://www.themoviedb.org/movie/293660-deadpool
+342,Magnum Opus,73.0,"Animation, Family, Science Fiction, Comedy",07/18/2022 ,5m,Kirsten Lepore,https://www.themoviedb.org/movie/1010823-magnum-opus
+343,The Croods: A New Age,75.0,"Animation, Family, Adventure, Fantasy, Comedy",11/25/2020 ,1h 35m,Joel Crawford,https://www.themoviedb.org/movie/529203-the-croods-a-new-age
+344,The Twilight Saga: Breaking Dawn - Part 1,62.0,"Adventure, Fantasy, Romance",11/17/2011 ,1h 57m,Bill Condon,https://www.themoviedb.org/movie/50619-the-twilight-saga-breaking-dawn-part-1
+345,Panama,55.0,Thriller,03/17/2022 ,1h 40m,Mark Neveldine,https://www.themoviedb.org/movie/628878-panama
+346,Dive,81.0,Drama,11/11/2022 ,1h 35m,Lucía Puenzo,https://www.themoviedb.org/movie/1037603-la-caida
+347,Golden Escape,0.0,"Drama, Crime",08/05/2022 ,Null,Lucía Puenzo,https://www.themoviedb.org/movie/1008640
+348,The Super Mario Bros. Movie,0.0,"Adventure, Animation, Comedy, Family, Fantasy",04/07/2023 ,Null,Aaron Horvath,https://www.themoviedb.org/movie/502356-the-super-mario-bros-movie
+349,Taken,74.0,"Action, Thriller",01/30/2009 ,1h 34m,Pierre Morel,https://www.themoviedb.org/movie/8681-taken
+350,Clean,64.0,Crime,08/25/2022 ,1h 33m,Paul Solet,https://www.themoviedb.org/movie/689700-clean
+351,Wrath of Man,77.0,"Action, Crime, Thriller",05/07/2021 ,1h 59m,Guy Ritchie,https://www.themoviedb.org/movie/637649-wrath-of-man
+352,Monster Hunter,67.0,"Action, Fantasy, Adventure",12/18/2020 ,1h 44m,Paul W. S. Anderson,https://www.themoviedb.org/movie/458576-monster-hunter
+353,Frozen,73.0,"Animation, Family, Adventure, Fantasy",11/27/2013 ,1h 42m,Chris Buck,https://www.themoviedb.org/movie/109445-frozen
+354,Groot Takes a Bath,70.0,"Animation, Family, Comedy, Science Fiction",08/10/2022 ,5m,Kirsten Lepore,https://www.themoviedb.org/movie/1010821-groot-takes-a-bath
+355,Fifty Shades of Grey,59.0,"Drama, Romance, Thriller",02/13/2015 ,2h 5m,Sam Taylor-Johnson,https://www.themoviedb.org/movie/216015-fifty-shades-of-grey
+356,Taurus,80.0,"Drama, Music",01/26/2023 ,1h 38m,Tim Sutton,https://www.themoviedb.org/movie/844547-taurus
+357,Pirates of the Caribbean: On Stranger Tides,65.0,"Adventure, Action, Fantasy",05/20/2011 ,2h 17m,Rob Marshall,https://www.themoviedb.org/movie/1865-pirates-of-the-caribbean-on-stranger-tides
+358,Spider-Man: Homecoming,74.0,"Action, Adventure, Science Fiction, Drama",07/07/2017 ,2h 13m,Jon Watts,https://www.themoviedb.org/movie/315635-spider-man-homecoming
+359,Avengers: Age of Ultron,73.0,"Action, Adventure, Science Fiction",04/24/2015 ,2h 21m,Joss Whedon,https://www.themoviedb.org/movie/99861-avengers-age-of-ultron
+360,"Miraculous World: New York, United HeroeZ",82.0,"Animation, Family, Adventure, TV Movie, Fantasy, Action",12/18/2020 ,55m,Thomas Astruc,https://www.themoviedb.org/movie/755812-miraculous-world-new-york-les-heros-unis
+361,Beyond the Universe,81.0,"Romance, Drama, Comedy",10/27/2022 ,2h 6m,Diego Freitas,https://www.themoviedb.org/movie/962232-depois-do-universo
+362,Child of Kamiari Month,66.0,"Animation, Drama, Fantasy, Family",10/08/2021 ,1h 40m,Takana Shirai,https://www.themoviedb.org/movie/628964
+363,Me Before You,79.0,"Drama, Romance",06/03/2016 ,1h 50m,Thea Sharrock,https://www.themoviedb.org/movie/296096-me-before-you
+364,Black Widow,74.0,"Action, Adventure, Science Fiction",07/09/2021 ,2h 14m,Cate Shortland,https://www.themoviedb.org/movie/497698-black-widow
+365,My Hero Academia: Heroes Rising,82.0,"Animation, Action, Fantasy, Adventure",12/20/2019 ,1h 44m,Ikuro Sato,https://www.themoviedb.org/movie/592350-the-movie
+366,The Maze Runner,72.0,"Action, Mystery, Science Fiction, Thriller",09/18/2014 ,1h 53m,Wes Ball,https://www.themoviedb.org/movie/198663-the-maze-runner
+367,Legend Quest: The Origin,83.0,"Animation, Comedy, Fantasy, Adventure, Family",02/15/2021 ,1h 30m,Ricardo Arnaiz,https://www.themoviedb.org/movie/667276-las-leyendas-el-origen
+368,Arrival,76.0,"Drama, Science Fiction, Mystery",11/25/2016 ,1h 56m,Evelyne Renaud,https://www.themoviedb.org/movie/329865-arrival
+369,Indemnity,69.0,"Action, Thriller, Crime",09/01/2022 ,2h 4m,Travis Taute,https://www.themoviedb.org/movie/854467-bez-winy
+370,Virgin Forest,30.0,Thriller,06/24/2022 ,1h 53m,Brillante Mendoza,https://www.themoviedb.org/movie/985932-virgin-forest
+371,Kimi,62.0,Thriller,02/10/2022 ,1h 29m,Steven Soderbergh,https://www.themoviedb.org/movie/800510-kimi
+372,Fury,75.0,"War, Drama, Action",10/31/2014 ,2h 15m,David Ayer,https://www.themoviedb.org/movie/228150-fury
+373,The Godfather,87.0,"Drama, Crime",03/14/1972 ,2h 55m,Fred T. Gallo,https://www.themoviedb.org/movie/238-the-godfather
+374,Princess Principal Crown Handler: Chapter 2,85.0,"Animation, Action, Adventure, Drama, Mystery",09/23/2021 ,Null,Masaki Tachibana,https://www.themoviedb.org/movie/843267-crown-handler-2
+375,Oppressive Torture,20.0,,01/14/1978 ,1h 1m,Kōji Wakamatsu,https://www.themoviedb.org/movie/466353
+376,Beauty Salon: Special Service,67.0,"Romance, Drama",12/29/2016 ,1h 21m,Lee Ri-dan,https://www.themoviedb.org/movie/452251
+377,Dune,78.0,"Science Fiction, Adventure",10/22/2021 ,2h 35m,Denis Villeneuve,https://www.themoviedb.org/movie/438631-dune
+378,Frozen II,73.0,"Family, Animation, Adventure, Comedy, Fantasy",11/22/2019 ,1h 43m,Chris Buck,https://www.themoviedb.org/movie/330457-frozen-ii
+379,Harry Potter 20th Anniversary: Return to Hogwarts,73.0,Documentary,01/01/2022 ,1h 43m,Casey Patterson,https://www.themoviedb.org/movie/899082-harry-potter-20th-anniversary-return-to-hogwarts
+380,The Hating Game,75.0,"Romance, Comedy",12/09/2021 ,1h 42m,Peter Hutchings,https://www.themoviedb.org/movie/603661-the-hating-game
+381,Mortal Kombat,71.0,"Action, Fantasy, Adventure",04/23/2021 ,1h 50m,Simon McQuoid,https://www.themoviedb.org/movie/460465-mortal-kombat
+382,It Chapter Two,69.0,"Horror, Fantasy",09/06/2019 ,2h 49m,Andy Muschietti,https://www.themoviedb.org/movie/474350-it-chapter-two
+383,Miraculous World: Shanghai – The Legend of Ladydragon,79.0,"Animation, Family, Adventure, Fantasy, Action, TV Movie",05/15/2021 ,52m,Thomas Astruc,https://www.themoviedb.org/movie/726684-miraculous-world-shanghai-la-legende-de-ladydragon
+384,The Greatest Beer Run Ever,78.0,"Drama, Comedy, War",09/30/2022 ,2h 6m,Peter Farrelly,https://www.themoviedb.org/movie/597922-the-greatest-beer-run-ever
+385,The Conjuring: The Devil Made Me Do It,76.0,"Horror, Mystery, Thriller",06/04/2021 ,1h 51m,Michael Chaves,https://www.themoviedb.org/movie/423108-the-conjuring-the-devil-made-me-do-it
+386,The Desperate Hour,61.0,Thriller,09/12/2021 ,1h 24m,Phillip Noyce,https://www.themoviedb.org/movie/764835-the-desperate-hour
+387,Space Jam: A New Legacy,69.0,"Family, Animation, Comedy, Science Fiction",07/16/2021 ,1h 55m,Malcolm D. Lee,https://www.themoviedb.org/movie/379686-space-jam-a-new-legacy
+388,Ghostbusters: Afterlife,76.0,"Fantasy, Comedy, Adventure",11/11/2021 ,2h 4m,Jason Reitman,https://www.themoviedb.org/movie/425909-ghostbusters-afterlife
+389,Héroes de barrio,61.0,"Comedy, Drama",06/24/2022 ,Null,Ángeles Reiné,https://www.themoviedb.org/movie/810214-heroes-de-barrio
+390,The Hobbit: The Battle of the Five Armies,73.0,"Action, Adventure, Fantasy",12/17/2014 ,2h 24m,Peter Jackson,https://www.themoviedb.org/movie/122917-the-hobbit-the-battle-of-the-five-armies
+391,Addams Family Reunion,47.0,"Family, Comedy, Fantasy, TV Movie",12/24/1998 ,1h 31m,Dave Payne,https://www.themoviedb.org/movie/11508-addams-family-reunion
+392,Last Man Down,55.0,"Action, Thriller",11/03/2022 ,1h 27m,Fansu Njie,https://www.themoviedb.org/movie/860623-last-man-down
+393,The Wolf of Wall Street,80.0,"Crime, Drama, Comedy",12/25/2013 ,3h,Martin Scorsese,https://www.themoviedb.org/movie/106646-the-wolf-of-wall-street
+394,Fight Club,84.0,"Drama, Thriller, Comedy",10/15/1999 ,2h 19m,David Fincher,https://www.themoviedb.org/movie/550-fight-club
+395,Exploits of a Young Don Juan,55.0,"Comedy, Drama",03/11/1987 ,1h 35m,Gianfranco Mingozzi,https://www.themoviedb.org/movie/81774-les-exploits-d-un-jeune-don-juan
+396,Ivy + Bean: The Ghost That Had to Go,60.0,"Family, Comedy",09/02/2022 ,1h 2m,Elissa Down,https://www.themoviedb.org/movie/1014676-ivy-bean-the-ghost-that-had-to-go
+397,Don't Leave,55.0,"Romance, Drama",11/11/2022 ,1h 47m,Ozan Açıktan,https://www.themoviedb.org/movie/1040263-kal
+398,The No Man Zone. The Movie,0.0,"Comedy, Science Fiction",06/09/2022 ,Null,Dmitry Gribanov,https://www.themoviedb.org/movie/981588
+399,Enchanted,68.0,"Comedy, Family, Fantasy, Romance",11/20/2007 ,1h 47m,Kevin Lima,https://www.themoviedb.org/movie/4523-enchanted
+400,Raya and the Last Dragon,80.0,"Animation, Family, Fantasy, Action, Adventure",03/05/2021 ,1h 47m,John Ripa,https://www.themoviedb.org/movie/527774-raya-and-the-last-dragon
+401,Survive,57.0,"Adventure, Drama, Thriller",10/01/2022 ,1h 48m,Mark Pellington,https://www.themoviedb.org/movie/1026706-survive
+402,Blacklight,63.0,"Action, Thriller",02/10/2022 ,1h 44m,Mark Williams,https://www.themoviedb.org/movie/823625-blacklight
+403,Orphan,70.0,"Horror, Thriller, Mystery",09/18/2009 ,2h 3m,Jaume Collet-Serra,https://www.themoviedb.org/movie/21208-orphan
+404,Fifty Shades Freed,67.0,"Drama, Romance",02/09/2018 ,1h 45m,Michael Collins,https://www.themoviedb.org/movie/337167-fifty-shades-freed
+405,Toy Story 2,76.0,"Animation, Comedy, Family",11/24/1999 ,1h 32m,Ash Brannon,https://www.themoviedb.org/movie/863-toy-story-2
+406,Tangled,76.0,"Animation, Family",01/21/2011 ,1h 40m,Byron Howard,https://www.themoviedb.org/movie/38757-tangled
+407,Dragon Ball Z: Broly – The Legendary Super Saiyan,73.0,"Animation, Science Fiction, Action",03/06/1993 ,1h 10m,Shigeyasu Yamauchi,https://www.themoviedb.org/movie/34433
+408,The Hunger Games: Mockingjay - Part 1,68.0,"Science Fiction, Adventure, Thriller",11/21/2014 ,2h 3m,Francis Lawrence,https://www.themoviedb.org/movie/131631-the-hunger-games-mockingjay-part-1
+409,Constantine: The House of Mystery,72.0,"Animation, Action, Adventure",05/03/2022 ,27m,Matt Peters,https://www.themoviedb.org/movie/791348-constantine-the-house-of-mystery
+410,LEGO Marvel Super Heroes: Black Panther - Trouble in Wakanda,63.0,"Animation, Fantasy, Family",06/04/2018 ,22m,Michael D. Black,https://www.themoviedb.org/movie/528222-lego-marvel-super-heroes-black-panther-trouble-in-wakanda
+411,Deadpool 2,75.0,"Action, Comedy, Adventure",05/18/2018 ,2h,David Leitch,https://www.themoviedb.org/movie/383498-deadpool-2
+412,Asking For It,56.0,"Action, Thriller, Drama",03/04/2022 ,1h 37m,Eamon O'Rourke,https://www.themoviedb.org/movie/825672-asking-for-it
+413,Shrek Forever After,63.0,"Comedy, Adventure, Fantasy, Animation, Family",05/16/2010 ,1h 33m,Mike Mitchell,https://www.themoviedb.org/movie/10192-shrek-forever-after
+414,The Little Guy,75.0,"Animation, Family, Comedy, Science Fiction",08/10/2022 ,5m,Kirsten Lepore,https://www.themoviedb.org/movie/1010819-the-little-guy
+415,Shazam!,70.0,"Action, Comedy, Fantasy",04/05/2019 ,2h 12m,David F. Sandberg,https://www.themoviedb.org/movie/287947-shazam
+416,F9,72.0,"Action, Adventure, Crime, Thriller",06/25/2021 ,2h 23m,Sarah Mulberge,https://www.themoviedb.org/movie/385128-f9
+417,The Shawshank Redemption,87.0,"Drama, Crime",10/14/1994 ,2h 22m,John R. Woodward,https://www.themoviedb.org/movie/278-the-shawshank-redemption
+418,Dragon Ball Z: Wrath of the Dragon,72.0,"Animation, Action, Science Fiction",07/15/1995 ,51m,Mitsuo Hashimoto,https://www.themoviedb.org/movie/39108-z
+419,Boyka: Undisputed IV,70.0,"Action, Drama",08/01/2016 ,1h 27m,Tim Man,https://www.themoviedb.org/movie/348893-boyka-undisputed-iv
+420,Alice no Mundo da Internet,28.0,"Adventure, Fantasy",08/05/2022 ,1h 27m,Fabrício Bittar,https://www.themoviedb.org/movie/1008204-alice-no-mundo-da-internet
+421,Belle,79.0,"Animation, Drama, Science Fiction, Music",07/16/2021 ,2h 2m,Taisuke Mamori,https://www.themoviedb.org/movie/776305
+422,Everything Everywhere All at Once,81.0,"Action, Adventure, Science Fiction",04/08/2022 ,2h 20m,Daniel Kwan,https://www.themoviedb.org/movie/545611-everything-everywhere-all-at-once
+423,Purpose of Reunion 3,43.0,"Drama, Romance",02/20/2018 ,1h 20m,Lee Do-si,https://www.themoviedb.org/movie/502235-3
+424,Despicable Me 2,69.0,"Animation, Comedy, Family",07/03/2013 ,1h 38m,Chris Renaud,https://www.themoviedb.org/movie/93456-despicable-me-2
+425,Close,78.0,Drama,11/02/2022 ,1h 45m,Lukas Dhont,https://www.themoviedb.org/movie/901563-close
+426,Through My Window,75.0,"Drama, Romance",02/04/2022 ,1h 52m,Marçal Forés,https://www.themoviedb.org/movie/818647-a-traves-de-mi-ventana
+427,Decision to Leave,73.0,"Mystery, Thriller, Crime, Drama, Romance",06/29/2022 ,2h 18m,Kim Seong-sik,https://www.themoviedb.org/movie/705996
+428,2037,74.0,"Family, Drama",06/08/2022 ,2h 6m,Mo Hong-jin,https://www.themoviedb.org/movie/833593
+429,Carter,61.0,"Action, Thriller",08/05/2022 ,2h 12m,Jung Byung-gil,https://www.themoviedb.org/movie/800345
+430,The Simpsons in Plusaversary,66.0,"Animation, Comedy, Fantasy",11/12/2021 ,4m,David Silverman,https://www.themoviedb.org/movie/877183-the-simpsons-in-plusaversary
+431,Pirates of the Caribbean: The Curse of the Black Pearl,78.0,"Adventure, Fantasy, Action",08/15/2003 ,2h 23m,Lisa Mantoux,https://www.themoviedb.org/movie/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl
+432,The Protégé,66.0,"Action, Thriller",08/20/2021 ,1h 49m,Martin Campbell,https://www.themoviedb.org/movie/645788-the-protege
+433,The Good Nurse,70.0,"Drama, Crime, Mystery",10/20/2022 ,2h 1m,Tobias Lindholm,https://www.themoviedb.org/movie/541134-the-good-nurse
+434,The Lord of the Rings: The Fellowship of the Ring,84.0,"Adventure, Fantasy, Action",03/15/2002 ,2h 59m,Peter Jackson,https://www.themoviedb.org/movie/120-the-lord-of-the-rings-the-fellowship-of-the-ring
+435,Blue Thermal,55.0,"Animation, Drama, Romance, Comedy",03/04/2022 ,1h 43m,Masaki Tachibana,https://www.themoviedb.org/movie/865767
+436,The Little Mermaid,73.0,"Animation, Family, Fantasy",11/17/1989 ,1h 23m,Michael Serrian,https://www.themoviedb.org/movie/10144-the-little-mermaid
+437,Pirates of the Caribbean: At World's End,72.0,"Adventure, Fantasy, Action",05/19/2007 ,2h 49m,Gore Verbinski,https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end
+438,Girl in the Basement,80.0,"Crime, Thriller, TV Movie",02/27/2021 ,1h 28m,Elisabeth Röhm,https://www.themoviedb.org/movie/801335-girl-in-the-basement
+439,The Lion King II: Simba's Pride,70.0,"Family, Adventure, Animation, Action",10/24/1998 ,1h 21m,Rob LaDuca,https://www.themoviedb.org/movie/9732-the-lion-king-ii-simba-s-pride
+440,The Lion King,71.0,"Adventure, Drama, Family",07/19/2019 ,1h 58m,Jon Favreau,https://www.themoviedb.org/movie/420818-the-lion-king
+441,Hansan: Rising Dragon,71.0,"History, Action, Drama, War",07/27/2022 ,2h 10m,Kim Han-min,https://www.themoviedb.org/movie/588108
+442,The Nightmare Before Christmas,78.0,"Fantasy, Animation, Family",10/29/1993 ,1h 16m,Henry Selick,https://www.themoviedb.org/movie/9479-the-nightmare-before-christmas
+443,Pirates of the Caribbean: Dead Man's Chest,73.0,"Adventure, Fantasy, Action",07/07/2006 ,2h 31m,Clark Credle,https://www.themoviedb.org/movie/58-pirates-of-the-caribbean-dead-man-s-chest
+444,The Penitent Thief,57.0,Drama,02/25/2021 ,1h 33m,Lucas Miles,https://www.themoviedb.org/movie/778552-the-penitent-thief
+445,Free Guy,76.0,"Comedy, Adventure, Science Fiction",09/17/2021 ,1h 55m,Shawn Levy,https://www.themoviedb.org/movie/550988-free-guy
+446,Ambulance,69.0,"Action, Thriller, Crime",04/08/2022 ,2h 16m,Michael Bay,https://www.themoviedb.org/movie/763285-ambulance
+447,Beauty Salon: Special Services 4,65.0,Romance,05/04/2020 ,Null,Michael Bay,https://www.themoviedb.org/movie/721187-4
+448,War for the Planet of the Apes,71.0,"Drama, Science Fiction, War",07/14/2017 ,2h 20m,Matt Reeves,https://www.themoviedb.org/movie/281338-war-for-the-planet-of-the-apes
+449,Young Mother 3,57.0,Romance,09/03/2015 ,1h 35m,Chae Gil-byeong,https://www.themoviedb.org/movie/386716-3
+450,Mulan,79.0,"Animation, Family, Adventure",06/19/1998 ,1h 28m,Barry Cook,https://www.themoviedb.org/movie/10674-mulan
+451,Cars 2,60.0,"Animation, Family, Adventure, Comedy",06/16/2011 ,1h 46m,Brad Lewis,https://www.themoviedb.org/movie/49013-cars-2
+452,Corpse Bride,75.0,"Romance, Fantasy, Animation",09/23/2005 ,1h 17m,Mike Johnson,https://www.themoviedb.org/movie/3933-corpse-bride
+453,Real Steel,69.0,"Action, Science Fiction, Drama",10/06/2011 ,2h 7m,Shawn Levy,https://www.themoviedb.org/movie/39254-real-steel
+454,Tom and Jerry Cowboy Up!,69.0,"Animation, Comedy, Family, Western",01/25/2022 ,1h 15m,Darrell Van Citters,https://www.themoviedb.org/movie/892153-tom-and-jerry-cowboy-up
+455,The Tipping Point,0.0,"Crime, Drama",11/11/2022 ,Null,Darrell Van Citters,https://www.themoviedb.org/movie/939754-the-tipping-point
+456,The Town,72.0,"Crime, Drama, Thriller",10/15/2010 ,2h 5m,Donald Murphy,https://www.themoviedb.org/movie/23168-the-town
+457,Spider-Man: Far from Home,75.0,"Action, Adventure, Science Fiction",07/04/2019 ,2h 9m,Jon Watts,https://www.themoviedb.org/movie/429617-spider-man-far-from-home
+458,Three Steps Above Heaven,78.0,"Romance, Drama",12/03/2010 ,2h 2m,Fernando González Molina,https://www.themoviedb.org/movie/61979-tres-metros-sobre-el-cielo
+459,Birds of Prey,70.0,"Action, Crime",02/07/2020 ,1h 49m,Dieter Busch,https://www.themoviedb.org/movie/495764-birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn
+460,The SpongeBob Movie: Sponge on the Run,76.0,"Family, Animation, Fantasy, Adventure, Comedy",08/14/2020 ,1h 35m,Tim Hill,https://www.themoviedb.org/movie/400160-the-spongebob-movie-sponge-on-the-run
+461,Bring It On: Cheer or Die,65.0,"Thriller, Horror, Comedy, TV Movie",09/27/2022 ,1h 31m,Karen Lam,https://www.themoviedb.org/movie/831410-bring-it-on-cheer-or-die
+462,Blaze,51.0,"Drama, Fantasy, Crime",08/25/2022 ,1h 41m,Del Kathryn Barton,https://www.themoviedb.org/movie/767254-blaze
+463,The Conjuring,75.0,"Horror, Thriller",08/02/2013 ,1h 52m,James Wan,https://www.themoviedb.org/movie/138843-the-conjuring
+464,The Munsters,61.0,"Comedy, Fantasy",09/27/2022 ,1h 50m,Rob Zombie,https://www.themoviedb.org/movie/804413-the-munsters
+465,Me Time,60.0,Comedy,08/26/2022 ,1h 44m,John Hamburg,https://www.themoviedb.org/movie/862551-me-time
+466,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",71.0,"Adventure, Family, Fantasy",12/09/2005 ,2h 23m,Chris Castaldi,https://www.themoviedb.org/movie/411-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe
+467,Fast & Furious Presents: Hobbs & Shaw,69.0,"Action, Adventure, Comedy",08/02/2019 ,2h 17m,David Leitch,https://www.themoviedb.org/movie/384018-fast-furious-presents-hobbs-shaw
+468,No Time to Die,74.0,"Adventure, Action, Thriller",09/30/2021 ,2h 43m,Cary Joji Fukunaga,https://www.themoviedb.org/movie/370172-no-time-to-die
+469,Meet Cute,61.0,"Comedy, Romance, Science Fiction",09/21/2022 ,1h 30m,Alexandre Lehmann,https://www.themoviedb.org/movie/843543-meet-cute
+470,Gunpowder Milkshake,64.0,"Action, Crime, Thriller",07/14/2021 ,1h 54m,Navot Papushado,https://www.themoviedb.org/movie/574060-gunpowder-milkshake
+471,Devil's Workshop,61.0,Horror,09/30/2022 ,1h 26m,Chris von Hoffmann,https://www.themoviedb.org/movie/1023086-devil-s-workshop
+472,World War Z,68.0,"Action, Drama, Horror, Science Fiction, Thriller",06/21/2013 ,1h 56m,Marc Forster,https://www.themoviedb.org/movie/72190-world-war-z
+473,Undisputed III: Redemption,76.0,"Action, Thriller",05/22/2010 ,1h 36m,Isaac Florentine,https://www.themoviedb.org/movie/38234-undisputed-iii-redemption
+474,Mad Max: Fury Road,76.0,"Action, Adventure, Science Fiction",05/15/2015 ,2h 1m,P.J. Voeten,https://www.themoviedb.org/movie/76341-mad-max-fury-road
+475,Wonder Woman 1984,65.0,"Action, Adventure, Fantasy",12/25/2020 ,2h 31m,Patty Jenkins,https://www.themoviedb.org/movie/464052-wonder-woman-1984
+476,Cat Pack: A PAW Patrol Exclusive Event,76.0,"Animation, Family",06/24/2022 ,1h 8m,Patty Jenkins,https://www.themoviedb.org/movie/991833-cat-pack-a-paw-patrol-exclusive-event
+477,xXx: Return of Xander Cage,61.0,"Action, Adventure, Crime",01/13/2017 ,1h 47m,D. J. Caruso,https://www.themoviedb.org/movie/47971-xxx-return-of-xander-cage
+478,Charlie and the Chocolate Factory,70.0,"Adventure, Comedy, Family, Fantasy",07/15/2005 ,1h 55m,Katterli Frauenfelder,https://www.themoviedb.org/movie/118-charlie-and-the-chocolate-factory
+479,Captain America: Civil War,74.0,"Adventure, Action, Science Fiction",05/06/2016 ,2h 27m,Anthony Russo,https://www.themoviedb.org/movie/271110-captain-america-civil-war
+480,Guillermo del Toro's Pinocchio,67.0,"Animation, Fantasy, Drama, Thriller",11/17/2022 ,1h 57m,Guillermo del Toro,https://www.themoviedb.org/movie/555604-guillermo-del-toro-s-pinocchio
+481,My Hero Academia: Two Heroes,79.0,"Animation, Action, Adventure, Fantasy",08/03/2018 ,1h 36m,Kenji Nagasaki,https://www.themoviedb.org/movie/505262-the-movie-2
+482,No Manches Frida 2,80.0,Comedy,03/15/2019 ,1h 42m,Nacho G. Velilla,https://www.themoviedb.org/movie/554596-no-manches-frida-2
+483,Incantation,69.0,Horror,03/18/2022 ,1h 51m,Kevin Ko,https://www.themoviedb.org/movie/864370
+484,Finding Nemo,78.0,"Animation, Family",05/30/2003 ,1h 40m,Lee Unkrich,https://www.themoviedb.org/movie/12-finding-nemo
+485,Joker,82.0,"Crime, Thriller, Drama",10/02/2019 ,2h 2m,Todd Phillips,https://www.themoviedb.org/movie/475557-joker
+486,How to Train Your Dragon: The Hidden World,78.0,"Animation, Family, Adventure",03/21/2019 ,1h 44m,Dean DeBlois,https://www.themoviedb.org/movie/166428-how-to-train-your-dragon-the-hidden-world
+487,Chip 'n Dale: Rescue Rangers,70.0,"Animation, Family, Comedy, Adventure, Mystery",05/20/2022 ,1h 39m,Akiva Schaffer,https://www.themoviedb.org/movie/420821-chip-n-dale-rescue-rangers
+488,Alienoid,73.0,"Action, Fantasy, Science Fiction, Adventure",07/20/2022 ,2h 23m,Choi Dong-hoon,https://www.themoviedb.org/movie/601796-1
+489,Spider-Man: Into the Spider-Verse,84.0,"Action, Adventure, Animation, Science Fiction",12/14/2018 ,1h 57m,Bob Persichetti,https://www.themoviedb.org/movie/324857-spider-man-into-the-spider-verse
+490,The Outfit,72.0,"Crime, Drama, Thriller",03/18/2022 ,1h 45m,Graham Moore,https://www.themoviedb.org/movie/799876-the-outfit
+491,The Equalizer,72.0,"Thriller, Action, Crime",11/21/2014 ,2h 12m,Antoine Fuqua,https://www.themoviedb.org/movie/156022-the-equalizer
+492,Kama Sutra: A Tale of Love,57.0,"Drama, History, Romance",02/28/1997 ,1h 57m,Mira Nair,https://www.themoviedb.org/movie/28005-kama-sutra-a-tale-of-love
+493,No Exit,70.0,"Horror, Thriller, Mystery",02/25/2022 ,1h 36m,Damien Power,https://www.themoviedb.org/movie/833425-no-exit
+494,Yaksha: Ruthless Operations,64.0,"Action, Adventure, Crime, Thriller",04/08/2022 ,2h 5m,Na Hyun,https://www.themoviedb.org/movie/606402
+495,Taken 2,63.0,"Action, Crime, Thriller",10/04/2012 ,1h 31m,Sandie Louit,https://www.themoviedb.org/movie/82675-taken-2
+496,Transformers: Age of Extinction,59.0,"Science Fiction, Action, Adventure",06/27/2014 ,2h 45m,Michael Bay,https://www.themoviedb.org/movie/91314-transformers-age-of-extinction
+497,Belli ciao,56.0,Comedy,01/01/2022 ,1h 27m,Gennaro Nunziante,https://www.themoviedb.org/movie/773820-belli-ciao
+498,Purple Hearts,83.0,"Romance, Drama",07/29/2022 ,2h 2m,Elizabeth Allen Rosenbaum,https://www.themoviedb.org/movie/762975-purple-hearts
+499,Your Name.,85.0,"Romance, Animation, Drama",08/26/2016 ,1h 46m,Makoto Shinkai,https://www.themoviedb.org/movie/372058
+500,Glass Onion: A Knives Out Mystery,78.0,"Comedy, Crime, Mystery",11/23/2022 ,2h 19m,Rian Johnson,https://www.themoviedb.org/movie/661374-glass-onion-a-knives-out-mystery
+501,Puss in Boots,64.0,"Action, Animation, Adventure, Comedy, Family",10/28/2011 ,1h 30m,Chris Miller,https://www.themoviedb.org/movie/417859-puss-in-boots
+502,8 Years,60.0,Drama,09/24/2022 ,1h 37m,JD Alcázar,https://www.themoviedb.org/movie/822213-8-anos
+503,Dawn of the Planet of the Apes,73.0,"Science Fiction, Action, Drama, Thriller",07/10/2014 ,2h 10m,Matt Reeves,https://www.themoviedb.org/movie/119450-dawn-of-the-planet-of-the-apes
+504,Triangle of Sadness,76.0,"Comedy, Drama",10/07/2022 ,2h 27m,Anna Hällgren,https://www.themoviedb.org/movie/497828-triangle-of-sadness
+505,Wrong Turn 3: Left for Dead,56.0,"Horror, Thriller",10/20/2009 ,1h 31m,Declan O'Brien,https://www.themoviedb.org/movie/23823-wrong-turn-3-left-for-dead
+506,Female Urologists,0.0,"Drama, Romance",02/22/2018 ,1h 12m,Jo Tae-ho,https://www.themoviedb.org/movie/502436
+507,Green Lantern: Beware My Power,72.0,"Animation, Action, Science Fiction",07/26/2022 ,1h 27m,Jeff Wamester,https://www.themoviedb.org/movie/887357-green-lantern-beware-my-power
+508,Iron Man,76.0,"Action, Science Fiction, Adventure",05/01/2008 ,2h 6m,Jon Favreau,https://www.themoviedb.org/movie/1726-iron-man
+509,Creed II,70.0,Drama,11/21/2018 ,2h 10m,Steven Caple Jr.,https://www.themoviedb.org/movie/480530-creed-ii
+510,Once In The Desert,71.0,"War, Drama",02/17/2022 ,2h 1m,Andrey Kravchuk,https://www.themoviedb.org/movie/589764
+511,Top Gun,70.0,"Action, Drama",05/16/1986 ,1h 50m,Tony Scott,https://www.themoviedb.org/movie/744-top-gun
+512,Shrek the Third,63.0,"Fantasy, Adventure, Animation, Comedy, Family",05/17/2007 ,1h 33m,Raman Hui,https://www.themoviedb.org/movie/810-shrek-the-third
+513,Hustle,79.0,"Drama, Comedy",06/03/2022 ,1h 58m,Jeremiah Zagar,https://www.themoviedb.org/movie/705861-hustle
+514,Cars 3,68.0,"Animation, Adventure, Comedy, Family",06/16/2017 ,1h 42m,Brian Fee,https://www.themoviedb.org/movie/260514-cars-3
+515,Ava,58.0,"Action, Crime, Drama, Adventure, Thriller",09/25/2020 ,1h 36m,Tate Taylor,https://www.themoviedb.org/movie/539885-ava
+516,The Polar Express,67.0,"Animation, Family, Adventure, Fantasy, Comedy",12/24/2004 ,1h 40m,Robert Zemeckis,https://www.themoviedb.org/movie/5255-the-polar-express
+517,A Trip to Infinity,66.0,Documentary,09/26/2022 ,1h 19m,Drew Takahashi,https://www.themoviedb.org/movie/1005031-a-trip-to-infinity
+518,Limitless,72.0,"Thriller, Mystery, Science Fiction",04/29/2011 ,1h 45m,Neil Burger,https://www.themoviedb.org/movie/51876-limitless
+519,Jumanji: The Next Level,70.0,"Adventure, Comedy, Fantasy",12/13/2019 ,2h 3m,Jake Kasdan,https://www.themoviedb.org/movie/512200-jumanji-the-next-level
+520,Resurrection,61.0,"Drama, Horror, Thriller",10/29/2022 ,1h 43m,John Wayne Marshall,https://www.themoviedb.org/movie/872497-resurrection
+521,Cinderella,70.0,"Family, Fantasy, Animation, Romance",03/04/1950 ,1h 14m,Clyde Geronimi,https://www.themoviedb.org/movie/11224-cinderella
+522,Mulan,69.0,"Adventure, Fantasy, Drama, Action",09/04/2020 ,1h 55m,Niki Caro,https://www.themoviedb.org/movie/337401-mulan
+523,Enola Holmes,73.0,"Action, Adventure, Mystery, Comedy, Crime",09/23/2020 ,2h 3m,Harry Bradbeer,https://www.themoviedb.org/movie/497582-enola-holmes
+524,The Curse of Bridge Hollow,68.0,"Adventure, Comedy, Horror, Family",10/14/2022 ,1h 29m,Jeff Wadlow,https://www.themoviedb.org/movie/864959-the-curse-of-bridge-hollow
+525,Jungle Cruise,75.0,"Action, Adventure, Fantasy",09/24/2021 ,2h 7m,Jaume Collet-Serra,https://www.themoviedb.org/movie/451048-jungle-cruise
+526,Chickenhare and the Hamster of Darkness,75.0,"Animation, Adventure, Comedy, Family, Fantasy",02/16/2022 ,1h 31m,Benjamin Mousquet,https://www.themoviedb.org/movie/778855-chickenhare-and-the-hamster-of-darkness
+527,The Amazing Spider-Man,67.0,"Action, Adventure, Fantasy",06/29/2012 ,2h 16m,Marc Webb,https://www.themoviedb.org/movie/1930-the-amazing-spider-man
+528,The Swimmers,82.0,"Drama, History",11/24/2022 ,2h 14m,Sally El Hosaini,https://www.themoviedb.org/movie/821881-the-swimmers
+529,The Amazing Spider-Man 2,65.0,"Action, Adventure, Fantasy",05/02/2014 ,2h 22m,Marc Webb,https://www.themoviedb.org/movie/102382-the-amazing-spider-man-2
+530,American Siege,56.0,"Action, Thriller, Crime, Drama",03/31/2022 ,1h 30m,Edward Drake,https://www.themoviedb.org/movie/766907-american-siege
+531,Captain Marvel,69.0,"Action, Adventure, Science Fiction",03/08/2019 ,2h 4m,Anna Boden,https://www.themoviedb.org/movie/299537-captain-marvel
+532,Iron Man 3,69.0,"Action, Adventure, Science Fiction",05/03/2013 ,2h 10m,Shane Black,https://www.themoviedb.org/movie/68721-iron-man-3
+533,Batman v Superman: Dawn of Justice,59.0,"Action, Adventure, Fantasy",05/06/2016 ,2h 32m,Zack Snyder,https://www.themoviedb.org/movie/209112-batman-v-superman-dawn-of-justice
+534,Hidden Figures,81.0,"Drama, History",02/24/2017 ,2h 7m,Theodore Melfi,https://www.themoviedb.org/movie/381284-hidden-figures
+535,John Wick: Chapter 4,0.0,"Action, Thriller, Crime",03/24/2023 ,Null,Chad Stahelski,https://www.themoviedb.org/movie/603692-john-wick-chapter-4
+536,Vendetta,64.0,Action,06/09/2022 ,1h 36m,Jared Cohn,https://www.themoviedb.org/movie/894169-vendetta
+537,R.I.P.D.,58.0,"Fantasy, Action, Comedy, Crime",07/19/2013 ,1h 36m,Robert Schwentke,https://www.themoviedb.org/movie/49524-r-i-p-d
+538,Up,79.0,"Animation, Comedy, Family, Adventure",05/28/2009 ,1h 36m,Bob Peterson,https://www.themoviedb.org/movie/14160-up
+539,Marudase Kintarou,0.0,"Romance, Comedy, Animation",12/11/2020 ,Null,Hideki Araki,https://www.themoviedb.org/movie/670327
+540,The Witch: Part 2. The Other One,73.0,"Action, Mystery, Thriller, Science Fiction",06/15/2022 ,2h 17m,Park Hoon-jung,https://www.themoviedb.org/movie/615173-2
+541,The Princess and the Frog,72.0,"Romance, Family, Animation",12/10/2009 ,1h 38m,John Musker,https://www.themoviedb.org/movie/10198-the-princess-and-the-frog
+542,Beauty Salon: Special Service 3,78.0,Romance,04/29/2019 ,1h 24m,Kim Jong-min,https://www.themoviedb.org/movie/643274-beauty-salon-special-service-3
+543,The Babysitter: Killer Queen,64.0,"Comedy, Horror",09/10/2020 ,1h 41m,McG,https://www.themoviedb.org/movie/623491-the-babysitter-killer-queen
+544,Thor: Ragnarok,76.0,"Action, Adventure, Fantasy, Science Fiction, Comedy",11/03/2017 ,2h 11m,Marieke Spence,https://www.themoviedb.org/movie/284053-thor-ragnarok
+545,Virus:32,71.0,Horror,04/21/2022 ,1h 30m,Gustavo Hernández,https://www.themoviedb.org/movie/893370-virus-32
+546,HiGH&LOW THE WORST X,0.0,"Action, Drama, Crime, Thriller",09/09/2022 ,1h 59m,Norihisa Hiranuma,https://www.themoviedb.org/movie/965731-high-low-the-worst-x
+547,High School Girl Story Indecent Fruit,0.0,,10/10/1997 ,Null,Akira Kato,https://www.themoviedb.org/movie/631330
+548,Teenage Mutant Ninja Turtles,59.0,"Science Fiction, Action, Adventure, Comedy",08/08/2014 ,1h 41m,Jonathan Liebesman,https://www.themoviedb.org/movie/98566-teenage-mutant-ninja-turtles
+549,The Cellar,67.0,"Horror, Mystery",03/25/2022 ,1h 34m,Brendan Muldowney,https://www.themoviedb.org/movie/758724-the-cellar
+550,American Sicario,60.0,"Crime, Action",01/06/2022 ,1h 30m,RJ Collins,https://www.themoviedb.org/movie/893297-american-sicario
+551,Bride of Chucky,60.0,"Comedy, Horror, Thriller",10/16/1998 ,1h 29m,Ronny Yu,https://www.themoviedb.org/movie/11932-bride-of-chucky
+552,Nobody,81.0,"Action, Crime, Thriller",08/27/2021 ,1h 32m,Ilya Naishuller,https://www.themoviedb.org/movie/615457-nobody
+553,Thor,68.0,"Adventure, Fantasy, Action",04/29/2011 ,1h 55m,Kenneth Branagh,https://www.themoviedb.org/movie/10195-thor
+554,A Quiet Place Part II,76.0,"Science Fiction, Thriller, Horror",05/28/2021 ,1h 37m,Catherine A. Cospelich,https://www.themoviedb.org/movie/520763-a-quiet-place-part-ii
+555,Young Mother 5,53.0,"Drama, Romance",04/03/2020 ,1h 35m,Jeong Do-soo,https://www.themoviedb.org/movie/729097-5
+556,Venom,68.0,"Science Fiction, Action",10/05/2018 ,1h 52m,Ruben Fleischer,https://www.themoviedb.org/movie/335983-venom
+557,The Hangover,73.0,Comedy,06/05/2009 ,1h 40m,David Mendoza,https://www.themoviedb.org/movie/18785-the-hangover
+558,The Incredibles,77.0,"Action, Adventure, Animation, Family",12/17/2004 ,1h 55m,Brad Bird,https://www.themoviedb.org/movie/9806-the-incredibles
+559,Ron's Gone Wrong,80.0,"Animation, Science Fiction, Family, Comedy",10/22/2021 ,1h 47m,Octavio E. Rodriguez,https://www.themoviedb.org/movie/482321-ron-s-gone-wrong
+560,Baise-moi,48.0,"Crime, Drama, Romance, Thriller",06/28/2000 ,1h 17m,Coralie Trinh Thi,https://www.themoviedb.org/movie/3134-baise-moi
+561,King,67.0,"Adventure, Comedy, Family",02/16/2022 ,1h 45m,David Moreau,https://www.themoviedb.org/movie/892527-king
+562,Mr. Harrigan's Phone,66.0,"Drama, Thriller, Horror",10/05/2022 ,1h 45m,John Lee Hancock,https://www.themoviedb.org/movie/723419-mr-harrigan-s-phone
+563,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,69.0,Comedy,01/12/1996 ,1h 29m,Paris Barclay,https://www.themoviedb.org/movie/10607-don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood
+564,Along with the Gods: The Two Worlds,81.0,"Drama, Fantasy, Action",12/20/2017 ,2h 19m,Kim Yong-hwa,https://www.themoviedb.org/movie/397567
+565,Female Urologists 2,73.0,"Drama, Romance",02/20/2020 ,1h 11m,Kim Jin-woo-II,https://www.themoviedb.org/movie/677115-2
+566,Mickey and Minnie Wish Upon a Christmas,69.0,Animation,12/24/2021 ,47m,Broni Likomanov,https://www.themoviedb.org/movie/864390-mickey-and-minnie-wish-upon-a-christmas
+567,Spirited Away,85.0,"Animation, Family, Fantasy",07/20/2001 ,2h 5m,Atsushi Takahashi,https://www.themoviedb.org/movie/129
+568,Split,73.0,"Horror, Thriller",02/24/2017 ,1h 57m,Amy Lauritsen,https://www.themoviedb.org/movie/381288-split
+569,Fireheart,75.0,"Animation, Comedy, Family",07/13/2022 ,1h 32m,Laurent Zeitoun,https://www.themoviedb.org/movie/778810-fireheart
+570,Terminator Genisys,59.0,"Science Fiction, Action, Thriller, Adventure",07/02/2015 ,2h 6m,Alan Taylor,https://www.themoviedb.org/movie/87101-terminator-genisys
+571,Jeepers Creepers 3,49.0,"Horror, Mystery, Thriller",11/16/2017 ,1h 40m,Victor Salva,https://www.themoviedb.org/movie/55341-jeepers-creepers-3
+572,The Blind Side,77.0,Drama,11/20/2009 ,2h 9m,John Lee Hancock,https://www.themoviedb.org/movie/22881-the-blind-side
+573,Incredibles 2,75.0,"Action, Adventure, Animation, Family",06/22/2018 ,1h 58m,Brad Bird,https://www.themoviedb.org/movie/260513-incredibles-2
+574,Groot's Pursuit,73.0,"Animation, Family, Comedy, Science Fiction",08/10/2022 ,5m,Kirsten Lepore,https://www.themoviedb.org/movie/1010820-groot-s-pursuit
+575,How to Train Your Dragon 2,77.0,"Fantasy, Action, Adventure, Animation, Comedy, Family",06/13/2014 ,1h 42m,Dean DeBlois,https://www.themoviedb.org/movie/82702-how-to-train-your-dragon-2
+576,Presences,70.0,Horror,09/07/2022 ,Null,Luis Mandoki,https://www.themoviedb.org/movie/772450-presencias
+577,Ted,64.0,"Comedy, Fantasy",06/29/2012 ,1h 47m,Seth MacFarlane,https://www.themoviedb.org/movie/72105-ted
+578,Collision,60.0,"Thriller, Crime, Drama",06/16/2022 ,1h 39m,Fabien Martorell,https://www.themoviedb.org/movie/975714-collision
+579,The Lord of the Rings: The Return of the King,85.0,"Adventure, Fantasy, Action",02/06/2004 ,3h 21m,Peter Jackson,https://www.themoviedb.org/movie/122-the-lord-of-the-rings-the-return-of-the-king
+580,The Twilight Saga: New Moon,60.0,"Adventure, Fantasy, Drama, Romance",11/20/2009 ,2h 11m,Chris Weitz,https://www.themoviedb.org/movie/18239-the-twilight-saga-new-moon
+581,Grown Ups 2,61.0,Comedy,07/12/2013 ,1h 41m,Dennis Dugan,https://www.themoviedb.org/movie/109418-grown-ups-2
+582,Soul,82.0,"Animation, Family, Comedy, Fantasy, Drama",12/25/2020 ,1h 41m,Kemp Powers,https://www.themoviedb.org/movie/508442-soul
+583,Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse,69.0,"Animation, Action, Comedy",05/24/2022 ,1h 19m,Katie Rice,https://www.themoviedb.org/movie/913205-teen-titans-go-dc-super-hero-girls-mayhem-in-the-multiverse
+584,Snake Eyes: G.I. Joe Origins,66.0,"Action, Adventure",07/23/2021 ,2h 1m,Robert Schwentke,https://www.themoviedb.org/movie/568620-snake-eyes-g-i-joe-origins
+585,Doctor Strange,74.0,"Action, Adventure, Fantasy",11/04/2016 ,1h 55m,Scott Derrickson,https://www.themoviedb.org/movie/284052-doctor-strange
+586,Murder Party,50.0,"Comedy, Crime",03/09/2022 ,1h 43m,Nicolas Pleskof,https://www.themoviedb.org/movie/862734-murder-party
+587,Howl's Moving Castle,84.0,"Fantasy, Animation, Adventure",11/19/2004 ,1h 59m,Ryosuke Kiyokawa,https://www.themoviedb.org/movie/4935
+588,Bantú Mama,0.0,Drama,11/17/2022 ,1h 17m,Iván Herrera,https://www.themoviedb.org/movie/796765-bantu-mama
+589,TÁR,76.0,"Drama, Music",10/28/2022 ,2h 38m,Todd Field,https://www.themoviedb.org/movie/817758-tar
+590,Blonde,63.0,Drama,09/16/2022 ,2h 47m,Andrew Dominik,https://www.themoviedb.org/movie/301502-blonde
+591,Spider-Man,73.0,"Fantasy, Action",05/24/2002 ,2h 1m,Jeff Shiffman,https://www.themoviedb.org/movie/557-spider-man
+592,War of the Worlds: Annihilation,53.0,"Science Fiction, Action",12/22/2021 ,1h 53m,Maximilian Elfeldt,https://www.themoviedb.org/movie/919689-war-of-the-worlds-annihilation
+593,Percy Jackson & the Olympians: The Lightning Thief,62.0,"Adventure, Fantasy, Family",02/01/2010 ,1h 58m,Chris Columbus,https://www.themoviedb.org/movie/32657-percy-jackson-the-olympians-the-lightning-thief
+594,Naruto Shippuden the Movie: Blood Prison,73.0,"Thriller, Animation, Action, Comedy, Horror, Mystery",07/30/2011 ,1h 48m,Masahiko Murata,https://www.themoviedb.org/movie/75624-naruto
+595,The Conjuring 2,73.0,"Horror, Thriller",06/10/2016 ,2h 14m,James Wan,https://www.themoviedb.org/movie/259693-the-conjuring-2
+596,Undercover,47.0,"Crime, Drama",02/09/2022 ,2h 3m,Thierry de Peretti,https://www.themoviedb.org/movie/661605-enquete-sur-un-scandale-d-etat
+597,Texas Chainsaw Massacre,52.0,"Horror, Thriller",02/18/2022 ,1h 23m,David Blue Garcia,https://www.themoviedb.org/movie/632727-texas-chainsaw-massacre
+598,Beauty and the Beast,77.0,"Romance, Family, Animation, Fantasy",11/22/1991 ,1h 24m,Gary Trousdale,https://www.themoviedb.org/movie/10020-beauty-and-the-beast
+599,Roald Dahl's The Witches,64.0,"Adventure, Fantasy, Comedy",10/25/2020 ,1h 46m,Robert Zemeckis,https://www.themoviedb.org/movie/531219-roald-dahl-s-the-witches
+600,No Manches Frida,78.0,Comedy,09/15/2016 ,1h 40m,Nacho G. Velilla,https://www.themoviedb.org/movie/375794-no-manches-frida
+601,Gold,63.0,"Thriller, Action",01/13/2022 ,1h 37m,Anthony Hayes,https://www.themoviedb.org/movie/760926-gold
+602,The Unbearable Weight of Massive Talent,68.0,"Action, Comedy, Crime",04/22/2022 ,1h 47m,Tom Gormican,https://www.themoviedb.org/movie/648579-the-unbearable-weight-of-massive-talent
+603,Pokemon the Movie: Mewtwo Strikes Back - Evolution,67.0,"Animation, Adventure, Fantasy, Action, Family",07/12/2019 ,1h 38m,Kunihiko Yuyama,https://www.themoviedb.org/movie/571891-evolution
+604,The Green Mile,85.0,"Fantasy, Drama, Crime",03/16/2000 ,3h 9m,Alan B. Curtiss,https://www.themoviedb.org/movie/497-the-green-mile
+605,The Takedown,60.0,"Comedy, Action",05/06/2022 ,1h 59m,Louis Leterrier,https://www.themoviedb.org/movie/785985-loin-du-periph
+606,Elvis,78.0,"Music, Drama, History",06/23/2022 ,2h 39m,Baz Luhrmann,https://www.themoviedb.org/movie/614934-elvis
+607,My Policeman,81.0,"Drama, Romance",10/21/2022 ,1h 53m,Callum Dawson,https://www.themoviedb.org/movie/744114-my-policeman
+608,The Forever Purge,71.0,"Horror, Action, Thriller",07/02/2021 ,1h 43m,Everardo Gout,https://www.themoviedb.org/movie/602223-the-forever-purge
+609,Creed,74.0,"Drama, Action",11/27/2015 ,2h 13m,Ryan Coogler,https://www.themoviedb.org/movie/312221-creed
+610,Prey for the Devil,59.0,"Horror, Thriller",10/28/2022 ,1h 33m,Ioan Banzourkov,https://www.themoviedb.org/movie/676547-prey-for-the-devil
+611,Nightmare Alley,70.0,"Crime, Drama, Thriller",12/03/2021 ,2h 30m,Guillermo del Toro,https://www.themoviedb.org/movie/597208-nightmare-alley
+612,Spider-Man 3,64.0,"Fantasy, Action, Adventure",05/03/2007 ,2h 19m,Sam Raimi,https://www.themoviedb.org/movie/559-spider-man-3
+613,WarHunt,50.0,"Action, Horror, Thriller, War, Fantasy",07/07/2022 ,1h 33m,Mauro Borrelli,https://www.themoviedb.org/movie/697799-warhunt
+614,Tom & Jerry,69.0,"Comedy, Family, Animation",02/26/2021 ,1h 41m,Tim Story,https://www.themoviedb.org/movie/587807-tom-jerry
+615,Superbad,72.0,Comedy,08/17/2007 ,1h 53m,Greg Mottola,https://www.themoviedb.org/movie/8363-superbad
+616,Jeepers Creepers,64.0,"Horror, Thriller",04/19/2002 ,1h 30m,Victor Salva,https://www.themoviedb.org/movie/8922-jeepers-creepers
+617,Fate/Grand Order Final Singularity – Grand Temple of Time: Solomon,69.0,"Animation, Action, Adventure, Fantasy",07/30/2021 ,1h 34m,Toshifumi Akai,https://www.themoviedb.org/movie/829920-fate-grand-order
+618,ESTERTOR,60.0,"Comedy, Drama",11/17/2022 ,1h 30m,Juan Pablo Basovih Marinaro,https://www.themoviedb.org/movie/1044119-estertor
+619,Cinderella,68.0,"Romance, Fantasy, Family, Drama",03/13/2015 ,1h 45m,Kenneth Branagh,https://www.themoviedb.org/movie/150689-cinderella
+620,Halloween Kills,66.0,"Horror, Thriller",10/15/2021 ,1h 45m,Justin Dybowski,https://www.themoviedb.org/movie/610253-halloween-kills
+621,Sublime,67.0,Drama,11/05/2022 ,1h 40m,Mariano Biasin,https://www.themoviedb.org/movie/831986-sublime
+622,Schindler's List,86.0,"Drama, History, War",12/15/1993 ,3h 15m,Steven Spielberg,https://www.themoviedb.org/movie/424-schindler-s-list
+623,Justice League,61.0,"Action, Adventure, Science Fiction",11/17/2017 ,2h,Joss Whedon,https://www.themoviedb.org/movie/141052-justice-league
+624,Snow White and the Seven Dwarfs,71.0,"Fantasy, Animation, Family",02/10/1965 ,1h 23m,Carl Fallberg,https://www.themoviedb.org/movie/408-snow-white-and-the-seven-dwarfs
+625,The House,71.0,"Animation, Drama, Comedy, Horror, Fantasy",01/14/2022 ,1h 37m,Emma De Swaef,https://www.themoviedb.org/movie/926899-the-house
+626,Heatwave,69.0,Thriller,01/17/2022 ,1h 40m,Ernie Barbarash,https://www.themoviedb.org/movie/928270-heatwave
+627,Maleficent,71.0,"Fantasy, Adventure, Action, Family, Romance",07/04/2014 ,1h 37m,Cedric Nicolas-Troyan,https://www.themoviedb.org/movie/102651-maleficent
+628,Obi-Wan Kenobi: A Jedi's Return,67.0,Documentary,09/08/2022 ,1h,David Gelb,https://www.themoviedb.org/movie/1015606-obi-wan-kenobi-a-jedi-s-return
+629,Toy Story 3,78.0,"Animation, Family, Comedy",06/25/2010 ,1h 43m,Lee Unkrich,https://www.themoviedb.org/movie/10193-toy-story-3
+630,Megalodon,56.0,"Action, Science Fiction, Horror, TV Movie",08/10/2018 ,1h 30m,James Thomas,https://www.themoviedb.org/movie/523931-megalodon
+631,Young Sister-in-Law 3,0.0,Romance,12/05/2017 ,1h 21m,Choi Woo-seong,https://www.themoviedb.org/movie/489150-3
+632,Zombieland,73.0,"Comedy, Horror",10/08/2009 ,1h 28m,Ruben Fleischer,https://www.themoviedb.org/movie/19908-zombieland
+633,The Last Warrior: Root of Evil,70.0,"Fantasy, Adventure, Comedy",01/01/2021 ,2h,Dmitriy Dyachenko,https://www.themoviedb.org/movie/589754
+634,Rurouni Kenshin: The Beginning,77.0,"Action, Adventure, Drama",06/04/2021 ,2h 18m,Keishi Ōtomo,https://www.themoviedb.org/movie/672322-the-beginning
+635,Star Wars,82.0,"Adventure, Action, Science Fiction",04/18/1997 ,2h 1m,Anthony Waye,https://www.themoviedb.org/movie/11-star-wars
+636,Pinocchio,71.0,"Animation, Family",02/23/1940 ,1h 28m,Ben Sharpsteen,https://www.themoviedb.org/movie/10895-pinocchio
+637,Hancock,63.0,"Fantasy, Action",07/01/2008 ,1h 32m,Peter Berg,https://www.themoviedb.org/movie/8960-hancock
+638,9 Bullets,57.0,"Action, Thriller",04/14/2022 ,1h 36m,Gigi Gaston,https://www.themoviedb.org/movie/777831-9-bullets
+639,The Fate of the Furious,69.0,"Action, Crime, Thriller",04/13/2017 ,2h 16m,F. Gary Gray,https://www.themoviedb.org/movie/337339-the-fate-of-the-furious
+640,Die Hard,78.0,"Action, Thriller",07/22/1988 ,2h 11m,John McTiernan,https://www.themoviedb.org/movie/562-die-hard
+641,Poker Face,62.0,"Thriller, Drama",11/24/2022 ,1h 35m,Russell Crowe,https://www.themoviedb.org/movie/842934-poker-face
+642,"Good Luck to You, Leo Grande",69.0,"Comedy, Romance, Drama",06/17/2022 ,1h 37m,Sophie Hyde,https://www.themoviedb.org/movie/758330-good-luck-to-you-leo-grande
+643,The Pilgrim's Progress,77.0,"Animation, Adventure",04/18/2019 ,1h 48m,Robert Fernandez,https://www.themoviedb.org/movie/595172-the-pilgrim-s-progress
+644,Mobile Suit Gundam Hathaway,74.0,"Animation, Action, Drama, Science Fiction",06/11/2021 ,1h 36m,Shuko Murase,https://www.themoviedb.org/movie/685274
+645,How to Train Your Dragon,78.0,"Fantasy, Adventure, Animation, Family",04/16/2010 ,1h 38m,Chris Sanders,https://www.themoviedb.org/movie/10191-how-to-train-your-dragon
+646,The Notebook,79.0,"Romance, Drama",06/25/2004 ,2h 3m,Nick Cassavetes,https://www.themoviedb.org/movie/11036-the-notebook
+647,Maleficent: Mistress of Evil,73.0,"Family, Fantasy, Adventure, Action",10/18/2019 ,1h 59m,Fraser Fennell-Ball,https://www.themoviedb.org/movie/420809-maleficent-mistress-of-evil
+648,Fortress: Sniper's Eye,56.0,"Action, Thriller, Crime",10/21/2022 ,1h 27m,Josh Sternfeld,https://www.themoviedb.org/movie/883502-fortress-sniper-s-eye
+649,Causeway,68.0,Drama,10/28/2022 ,1h 36m,Lila Neugebauer,https://www.themoviedb.org/movie/595586-causeway
+650,The Unholy,67.0,"Horror, Mystery",04/02/2021 ,1h 39m,Evan Spiliotopoulos,https://www.themoviedb.org/movie/632357-the-unholy
+651,I Won't Let You Go,53.0,"Thriller, Drama",06/23/2022 ,Null,Evan Spiliotopoulos,https://www.themoviedb.org/movie/993843-i-won-t-let-you-go
+652,Scary Movie,63.0,Comedy,07/07/2000 ,1h 28m,Keenen Ivory Wayans,https://www.themoviedb.org/movie/4247-scary-movie
+653,Arthur & Merlin: Knights of Camelot,53.0,"Adventure, History, Action",05/28/2020 ,1h 31m,Giles Alderson,https://www.themoviedb.org/movie/635237-arthur-merlin-knights-of-camelot
+654,Monsters University,70.0,"Animation, Family",06/21/2013 ,1h 44m,Dan Scanlon,https://www.themoviedb.org/movie/62211-monsters-university
+655,Inception,84.0,"Action, Science Fiction, Adventure",07/16/2010 ,2h 28m,Kevin Frilet,https://www.themoviedb.org/movie/27205-inception
+656,Old People,58.0,Horror,10/07/2022 ,1h 41m,Andy Fetscher,https://www.themoviedb.org/movie/999722-old-people
+657,Man of Steel,66.0,"Action, Adventure, Science Fiction",06/14/2013 ,2h 23m,Zack Snyder,https://www.themoviedb.org/movie/49521-man-of-steel
+658,Pil's Adventures,68.0,"Animation, Adventure, Fantasy, Comedy, Family",08/11/2021 ,1h 29m,Julien Fournet,https://www.themoviedb.org/movie/676705-pil
+659,Taya,53.0,Thriller,08/27/2021 ,1h 43m,Roman Perez Jr.,https://www.themoviedb.org/movie/860306-taya
+660,San Andreas,62.0,"Action, Drama, Thriller",05/29/2015 ,1h 54m,Marieke Spence,https://www.themoviedb.org/movie/254128-san-andreas
+661,The Lord of the Rings: The Two Towers,84.0,"Adventure, Fantasy, Action",12/18/2002 ,2h 59m,Peter Jackson,https://www.themoviedb.org/movie/121-the-lord-of-the-rings-the-two-towers
+662,Shut In,71.0,"Thriller, Horror, Drama",03/24/2022 ,1h 30m,D. J. Caruso,https://www.themoviedb.org/movie/629015-shut-in
+663,Constantine,70.0,"Fantasy, Action, Horror",02/25/2005 ,2h 1m,Francis Lawrence,https://www.themoviedb.org/movie/561-constantine
+664,Female Doctor: Flesh Slave,38.0,Crime,03/08/1986 ,1h 8m,Katsuhiko Fujii,https://www.themoviedb.org/movie/405869
+665,Chernobyl: Abyss,62.0,"Drama, History, Adventure, Action, Fantasy, Mystery",04/15/2021 ,2h 16m,Danila Kozlovsky,https://www.themoviedb.org/movie/589761
+666,Deathstroke: Knights & Dragons - The Movie,69.0,"Animation, Action, Adventure, Science Fiction",08/04/2020 ,1h 27m,Sung Jin Ahn,https://www.themoviedb.org/movie/703771-deathstroke-knights-dragons-the-movie
+667,Hot Seat,58.0,"Thriller, Action",07/01/2022 ,1h 27m,James Cullen Bressack,https://www.themoviedb.org/movie/888195-hot-seat
+668,Luckiest Girl Alive,66.0,"Drama, Thriller, Mystery",09/30/2022 ,1h 53m,Mike Barker,https://www.themoviedb.org/movie/799546-luckiest-girl-alive
+669,Wrong Turn,63.0,"Horror, Thriller",05/30/2003 ,1h 24m,Rob Schmidt,https://www.themoviedb.org/movie/9902-wrong-turn
+670,The Godfather Part III,74.0,"Crime, Drama, Thriller",05/01/1992 ,2h 50m,Francis Ford Coppola,https://www.themoviedb.org/movie/242-the-godfather-part-iii
+671,Ralph Breaks the Internet,72.0,"Family, Animation, Comedy, Adventure",11/23/2018 ,1h 52m,Phil Johnston,https://www.themoviedb.org/movie/404368-ralph-breaks-the-internet
+672,Scarface,82.0,"Action, Crime, Drama",12/09/1983 ,2h 50m,Chris Soldo,https://www.themoviedb.org/movie/111-scarface
+673,Alapaap,0.0,Thriller,11/18/2022 ,2h 10m,Freidric Macapagal Cortez,https://www.themoviedb.org/movie/1041888-alapaap
+674,Hocus Pocus,71.0,"Fantasy, Comedy, Family",07/16/1993 ,1h 36m,Kenny Ortega,https://www.themoviedb.org/movie/10439-hocus-pocus
+675,Desperate Riders,60.0,"Western, Action",02/25/2022 ,1h 30m,Michael Feifer,https://www.themoviedb.org/movie/928999-desperate-riders
+676,Spirit Untamed,74.0,"Animation, Adventure, Family, Western",06/04/2021 ,1h 28m,Ennio Torresan Jr.,https://www.themoviedb.org/movie/637693-spirit-untamed
+677,Baby Driver,75.0,"Action, Crime",06/30/2017 ,1h 53m,Edgar Wright,https://www.themoviedb.org/movie/339403-baby-driver
+678,Un novio para mi mujer,54.0,"Comedy, Romance",07/22/2022 ,Null,Laura Mañá,https://www.themoviedb.org/movie/932339-un-novio-para-mi-mujer
+679,Dakota,62.0,"Family, Adventure",04/01/2022 ,1h 36m,Kirk Harris,https://www.themoviedb.org/movie/955740-dakota
+680,Someone Borrowed,64.0,"Comedy, Romance",10/11/2022 ,1h 47m,Cris D'amato,https://www.themoviedb.org/movie/1022206-esposa-de-aluguel
+681,Jeepers Creepers 2,61.0,Horror,08/29/2003 ,1h 44m,Victor Salva,https://www.themoviedb.org/movie/11351-jeepers-creepers-2
+682,Young Mother,54.0,"Comedy, Romance",07/31/2013 ,1h 23m,Kong Ja-kwan,https://www.themoviedb.org/movie/218746
+683,Rise of the Guardians,74.0,"Family, Animation, Fantasy, Action, Adventure",11/21/2012 ,1h 37m,Peter Ramsey,https://www.themoviedb.org/movie/81188-rise-of-the-guardians
+684,Ivy + Bean: Doomed to Dance,75.0,"Family, Comedy",09/02/2022 ,57m,Elissa Down,https://www.themoviedb.org/movie/1014530-ivy-bean-doomed-to-dance
+685,Wrong Turn,60.0,"Horror, Thriller",01/26/2021 ,1h 50m,Mike P. Nelson,https://www.themoviedb.org/movie/630586-wrong-turn
+686,Fate/kaleid liner Prisma☆Illya: Licht Nameless Girl,0.0,"Action, Animation, Fantasy",08/27/2021 ,Null,Shin Oonuma,https://www.themoviedb.org/movie/843243-fate-kaleid-liner-licht
+687,A Christmas Carol,69.0,"Animation, Family, Drama, Fantasy",11/06/2009 ,1h 34m,Robert Zemeckis,https://www.themoviedb.org/movie/17979-a-christmas-carol
+688,Do Revenge,64.0,Comedy,09/16/2022 ,1h 58m,Ashley Shewell,https://www.themoviedb.org/movie/762968-do-revenge
+689,Terminator 2: Judgment Day,81.0,"Action, Thriller, Science Fiction",08/24/1991 ,2h 17m,James Cameron,https://www.themoviedb.org/movie/280-terminator-2-judgment-day
+690,Call Me by Your Name,82.0,"Romance, Drama",01/19/2018 ,2h 12m,Manuela D'Ovidio,https://www.themoviedb.org/movie/398818-call-me-by-your-name
+691,Madagascar,69.0,"Family, Animation, Adventure, Comedy",08/12/2005 ,1h 26m,Eric Darnell,https://www.themoviedb.org/movie/953-madagascar
+692,The Hobbit: An Unexpected Journey,73.0,"Adventure, Fantasy, Action",12/14/2012 ,2h 49m,Peter Jackson,https://www.themoviedb.org/movie/49051-the-hobbit-an-unexpected-journey
+693,Seed of Chucky,54.0,"Comedy, Horror, Thriller",11/12/2004 ,1h 27m,Don Mancini,https://www.themoviedb.org/movie/11249-seed-of-chucky
+694,Forrest Gump,85.0,"Comedy, Drama, Romance",07/06/1994 ,2h 22m,Lennie Appelquist,https://www.themoviedb.org/movie/13-forrest-gump
+695,A Whisker Away,80.0,"Animation, Drama, Romance, Fantasy",06/18/2020 ,1h 44m,Tomotaka Shibayama,https://www.themoviedb.org/movie/667520
+696,The Grandmother,59.0,"Drama, Horror",04/06/2022 ,1h 41m,Ana Hernando,https://www.themoviedb.org/movie/661791-la-abuela
+697,Sing,71.0,"Animation, Comedy, Family, Music",12/30/2016 ,1h 48m,Christophe Lourdelet,https://www.themoviedb.org/movie/335797-sing
+698,The Nun,58.0,"Horror, Mystery, Thriller",09/07/2018 ,1h 36m,Corin Hardy,https://www.themoviedb.org/movie/439079-the-nun
+699,Tarzan,74.0,"Family, Adventure, Animation, Drama",06/18/1999 ,1h 28m,Chris Buck,https://www.themoviedb.org/movie/37135-tarzan
+700,The Karate Kid,65.0,"Action, Adventure, Drama, Family",06/10/2010 ,2h 20m,Harald Zwart,https://www.themoviedb.org/movie/38575-the-karate-kid
+701,The Shack,75.0,"Drama, Fantasy",03/03/2017 ,2h 12m,David Scott Thomson,https://www.themoviedb.org/movie/345938-the-shack
+702,Blade Runner 2049,75.0,"Science Fiction, Drama",10/06/2017 ,2h 44m,Hajós Péter,https://www.themoviedb.org/movie/335984-blade-runner-2049
+703,Old,65.0,"Thriller, Mystery, Horror",07/23/2021 ,1h 48m,M. Night Shyamalan,https://www.themoviedb.org/movie/631843-old
+704,Bambi,70.0,"Animation, Drama, Family",08/21/1942 ,1h 10m,Graham Heid,https://www.themoviedb.org/movie/3170-bambi
+705,Toy Story 4,75.0,"Family, Adventure, Animation, Comedy, Fantasy",06/21/2019 ,1h 40m,Josh Cooley,https://www.themoviedb.org/movie/301528-toy-story-4
+706,Shaolin Soccer,71.0,"Action, Comedy",07/12/2001 ,1h 53m,Tony Ching Siu-Tung,https://www.themoviedb.org/movie/11770
+707,National Lampoon's Christmas Vacation,72.0,Comedy,12/01/1989 ,1h 37m,Jeremiah S. Chechik,https://www.themoviedb.org/movie/5825-national-lampoon-s-christmas-vacation
+708,Jurassic World,67.0,"Action, Adventure, Science Fiction, Thriller",06/11/2015 ,2h 4m,Zack Smith,https://www.themoviedb.org/movie/135397-jurassic-world
+709,The Simpsons Movie,70.0,"Animation, Comedy, Family",07/27/2007 ,1h 27m,Matthew Schofield,https://www.themoviedb.org/movie/35-the-simpsons-movie
+710,Along with the Gods: The Last 49 Days,83.0,"Drama, Fantasy, Action",08/01/2018 ,2h 21m,Kim Yong-hwa,https://www.themoviedb.org/movie/518068
+711,Wish Dragon,80.0,"Animation, Family, Comedy, Fantasy",01/15/2021 ,1h 39m,Chris Appelhans,https://www.themoviedb.org/movie/550205-wish-dragon
+712,The Devil Wears Prada,74.0,"Comedy, Drama, Romance",03/14/2008 ,1h 49m,David Frankel,https://www.themoviedb.org/movie/350-the-devil-wears-prada
+713,Snoopy Presents: Lucy's School,74.0,"Family, Animation",08/12/2022 ,38m,Raymond S. Persi,https://www.themoviedb.org/movie/975490-snoopy-presents-lucy-s-school
+714,Back to the Outback,78.0,"Animation, Family, Adventure, Comedy",12/03/2021 ,1h 32m,Claire Knight,https://www.themoviedb.org/movie/770254-back-to-the-outback
+715,After Porn Ends 3,54.0,Documentary,12/30/2018 ,1h 26m,Brittany Andrews,https://www.themoviedb.org/movie/557635-after-porn-ends-3
+716,The Matrix,82.0,"Action, Science Fiction",03/30/1999 ,2h 16m,Lana Wachowski,https://www.themoviedb.org/movie/603-the-matrix
+717,Winnie the Pooh: Blood and Honey,0.0,"Horror, Thriller",02/15/2023 ,Null,Rhys Frake-Waterfield,https://www.themoviedb.org/movie/980078-winnie-the-pooh-blood-and-honey
+718,Despicable Me,72.0,"Family, Animation, Comedy, Crime",08/06/2010 ,1h 35m,Chris Renaud,https://www.themoviedb.org/movie/20352-despicable-me
+719,Knowing,61.0,"Action, Mystery, Science Fiction, Thriller",03/20/2009 ,2h 1m,Alex Proyas,https://www.themoviedb.org/movie/13811-knowing
+720,Scooby-Doo,61.0,"Mystery, Adventure, Comedy",06/14/2002 ,1h 28m,Raja Gosnell,https://www.themoviedb.org/movie/9637-scooby-doo
+721,The Dark Knight Rises,78.0,"Action, Crime, Drama, Thriller",07/20/2012 ,2h 45m,Matthew Reedy,https://www.themoviedb.org/movie/49026-the-dark-knight-rises
+722,Making 1899,55.0,Documentary,11/17/2022 ,52m,Andrew Amondson,https://www.themoviedb.org/movie/1049702-making-1899
+723,The Dark Knight,85.0,"Drama, Action, Crime, Thriller",07/18/2008 ,2h 32m,Nilo Otero,https://www.themoviedb.org/movie/155-the-dark-knight
+724,Where the Crawdads Sing,77.0,"Drama, Mystery, Thriller",07/15/2022 ,2h 5m,Olivia Newman,https://www.themoviedb.org/movie/682507-where-the-crawdads-sing
+725,Wrong Turn 2: Dead End,60.0,"Horror, Thriller",10/08/2007 ,1h 36m,Joe Lynch,https://www.themoviedb.org/movie/13186-wrong-turn-2-dead-end
+726,Impossible Things,86.0,"Family, Drama",06/17/2021 ,1h 28m,Ernesto Contreras,https://www.themoviedb.org/movie/667257-cosas-imposibles
+727,Pokémon the Movie: Secrets of the Jungle,70.0,"Animation, Adventure, Family, Science Fiction, Action, Fantasy",12/25/2020 ,1h 38m,Jun Owada,https://www.themoviedb.org/movie/662708
+728,Friend Couples: Swapping,0.0,"Romance, Drama",02/14/2017 ,1h 14m,Lee Sang-woo,https://www.themoviedb.org/movie/482008
+729,Female Urologists 3,40.0,"Drama, Romance",12/03/2020 ,1h 12m,Lee Sang-woo,https://www.themoviedb.org/movie/773804-3
+730,Brazen,50.0,"Thriller, Mystery, Drama",01/13/2022 ,1h 34m,Monika Mitchell,https://www.themoviedb.org/movie/916740-brazen
+731,Don't Breathe 2,73.0,"Thriller, Horror",09/17/2021 ,1h 38m,Rodo Sayagues,https://www.themoviedb.org/movie/482373-don-t-breathe-2
+732,Jolt,67.0,"Action, Thriller",07/15/2021 ,1h 31m,Tanya Wexler,https://www.themoviedb.org/movie/617502-jolt
+733,Child's Play,67.0,Horror,11/09/1988 ,1h 27m,Tom Holland,https://www.themoviedb.org/movie/10585-child-s-play
+734,One Punch Man: Road to Hero,80.0,"Action, Animation",12/04/2015 ,30m,Shingo Natsume,https://www.themoviedb.org/movie/370455
+735,Rise of the Teenage Mutant Ninja Turtles: The Movie,75.0,"Animation, Action, Comedy, Family, Science Fiction",08/05/2022 ,1h 26m,Andy Suriano,https://www.themoviedb.org/movie/765172-rise-of-the-teenage-mutant-ninja-turtles-the-movie
+736,Journey 2: The Mysterious Island,61.0,"Adventure, Action, Science Fiction",02/10/2012 ,1h 34m,Brad Peyton,https://www.themoviedb.org/movie/72545-journey-2-the-mysterious-island
+737,The Wizard of Oz,76.0,"Adventure, Fantasy, Family",08/25/1939 ,1h 42m,George Cukor,https://www.themoviedb.org/movie/630-the-wizard-of-oz
+738,Beauty and the Beast,70.0,"Family, Fantasy, Romance",03/17/2017 ,2h 9m,Jack Scarisbrick,https://www.themoviedb.org/movie/321612-beauty-and-the-beast
+739,Interceptor,62.0,"Action, Thriller, Adventure",05/26/2022 ,1h 38m,Matthew Reilly,https://www.themoviedb.org/movie/831946-interceptor
+740,Looop Lapeta,63.0,"Action, Comedy, Crime",02/04/2022 ,2h 11m,Aakash Bhatia,https://www.themoviedb.org/movie/783461
+741,One Piece: Adventure of Nebulandia,75.0,"Action, Animation, Adventure, Comedy, Fantasy",12/20/2015 ,1h 46m,Konosuke Uda,https://www.themoviedb.org/movie/373879-one-piece
+742,Kung Fu Panda,72.0,"Action, Adventure, Animation, Family, Comedy",06/06/2008 ,1h 30m,John Stevenson,https://www.themoviedb.org/movie/9502-kung-fu-panda
+743,Thor: The Dark World,66.0,"Action, Adventure, Fantasy",11/15/2013 ,1h 52m,Alan Taylor,https://www.themoviedb.org/movie/76338-thor-the-dark-world
+744,Furious 7,72.0,"Action, Thriller, Crime, Adventure",04/03/2015 ,2h 17m,James Wan,https://www.themoviedb.org/movie/168259-furious-7
+745,Aladdin,76.0,"Animation, Family, Adventure, Fantasy, Romance",11/25/1992 ,1h 30m,John Musker,https://www.themoviedb.org/movie/812-aladdin
+746,The Parent Trap,71.0,"Comedy, Family",07/29/1998 ,2h 8m,Nancy Meyers,https://www.themoviedb.org/movie/9820-the-parent-trap
+747,Willow,70.0,"Action, Adventure, Fantasy",05/20/1988 ,2h 6m,Ron Howard,https://www.themoviedb.org/movie/847-willow
+748,"Yes, No, or Maybe Half?",72.0,"Animation, Drama, Romance",12/11/2020 ,53m,Masahiro Takata,https://www.themoviedb.org/movie/719088
+749,Shazam! Fury of the Gods,0.0,"Comedy, Action, Fantasy",03/17/2023 ,2h 10m,David F. Sandberg,https://www.themoviedb.org/movie/594767-shazam-fury-of-the-gods
+750,2012,58.0,"Action, Adventure, Science Fiction",10/10/2009 ,2h 38m,Roland Emmerich,https://www.themoviedb.org/movie/14161-2012
+751,Wreck-It Ralph,73.0,"Family, Animation, Comedy, Adventure",11/02/2012 ,1h 41m,Rich Moore,https://www.themoviedb.org/movie/82690-wreck-it-ralph
+752,"Paul, Apostle of Christ",75.0,"Drama, History",03/28/2018 ,1h 48m,Andrew Hyatt,https://www.themoviedb.org/movie/476968-paul-apostle-of-christ
+753,John Wick,74.0,"Action, Thriller",10/24/2014 ,1h 41m,David Leitch,https://www.themoviedb.org/movie/245891-john-wick
+754,Pulp Fiction,85.0,"Thriller, Crime",10/14/1994 ,2h 34m,Quentin Tarantino,https://www.themoviedb.org/movie/680-pulp-fiction
+755,A Silent Voice: The Movie,84.0,"Animation, Drama",09/17/2016 ,2h 10m,Naoko Yamada,https://www.themoviedb.org/movie/378064
+756,A Day to Die,61.0,"Action, Thriller, Crime",06/23/2022 ,1h 41m,Wes Miller,https://www.themoviedb.org/movie/864116-a-day-to-die
+757,The Commando,58.0,"Action, Crime, Thriller",06/30/2022 ,1h 33m,Asif Akbar,https://www.themoviedb.org/movie/753232-the-commando
+758,A Delicious Flight,41.0,Romance,11/01/2015 ,1h 37m,Choi Sang-hoon,https://www.themoviedb.org/movie/390845
+759,Pearl,72.0,Horror,09/16/2022 ,1h 42m,Ti West,https://www.themoviedb.org/movie/949423-pearl
+760,X-Men: Apocalypse,65.0,"Action, Adventure, Science Fiction, Fantasy",05/27/2016 ,2h 24m,Bryan Singer,https://www.themoviedb.org/movie/246655-x-men-apocalypse
+761,Dragon Ball Z: Battle of Gods,68.0,"Animation, Action, Science Fiction",03/30/2013 ,1h 25m,Yasunori Goto,https://www.themoviedb.org/movie/126963-z
+762,Fate/Grand Order: The Movie – Divine Realm of the Round Table: Camelot – Paladin; Agateram,64.0,"Animation, Action, Adventure, History, Drama, Fantasy",05/15/2021 ,1h 36m,Hakuyu Go,https://www.themoviedb.org/movie/637462-fate-grand-order-paladin-agateram
+763,Abraham Lincoln: Vampire Hunter,57.0,"Action, Fantasy, Horror",06/22/2012 ,1h 34m,Timur Bekmambetov,https://www.themoviedb.org/movie/72331-abraham-lincoln-vampire-hunter
+764,Infinite,67.0,"Science Fiction, Action, Thriller",09/09/2021 ,1h 46m,Antoine Fuqua,https://www.themoviedb.org/movie/581726-infinite
+765,Home Sweet Home Alone,50.0,"Family, Comedy, Action",11/12/2021 ,1h 33m,Dan Mazer,https://www.themoviedb.org/movie/654974-home-sweet-home-alone
+766,The Jungle Book,73.0,"Family, Animation, Adventure",10/18/1967 ,1h 18m,Wolfgang Reitherman,https://www.themoviedb.org/movie/9325-the-jungle-book
+767,"One Piece ""3D2Y"": Overcome Ace's Death! Luffy's Vow to his Friends",74.0,"Action, Animation, Adventure, Comedy, Fantasy",11/24/2017 ,1h 45m,Aya Komaki,https://www.themoviedb.org/movie/290271-one-piece-3d2y
+768,Prometheus,65.0,"Science Fiction, Adventure, Mystery",06/08/2012 ,2h 4m,Ridley Scott,https://www.themoviedb.org/movie/70981-prometheus
+769,No Limit,62.0,Drama,09/09/2022 ,1h 59m,David M. Rosenthal,https://www.themoviedb.org/movie/911129-sous-emprise
+770,Bad Boys for Life,72.0,"Thriller, Action, Crime",01/17/2020 ,2h 4m,Alexis Eelman,https://www.themoviedb.org/movie/38700-bad-boys-for-life
+771,Dragon Ball Z: The Tree of Might,65.0,"Action, Animation, Science Fiction",06/07/1990 ,1h 1m,Daisuke Nishio,https://www.themoviedb.org/movie/39101-z
+772,Kong: Skull Island,65.0,"Action, Adventure, Fantasy",03/10/2017 ,1h 58m,Jordan Vogt-Roberts,https://www.themoviedb.org/movie/293167-kong-skull-island
+773,Marmaduke,55.0,"Animation, Family, Comedy",04/28/2022 ,1h 28m,Matt Philip Whelan,https://www.themoviedb.org/movie/678287-marmaduke
+774,One Shot,68.0,Action,01/21/2022 ,1h 37m,James Nunn,https://www.themoviedb.org/movie/811592-one-shot
+775,The Good Dinosaur,67.0,"Adventure, Animation, Family",11/27/2015 ,1h 33m,Peter Sohn,https://www.themoviedb.org/movie/105864-the-good-dinosaur
+776,The Croods,69.0,"Animation, Adventure, Family, Fantasy, Comedy, Action",03/22/2013 ,1h 38m,Chris Sanders,https://www.themoviedb.org/movie/49519-the-croods
+777,Parasite,85.0,"Comedy, Thriller, Drama",01/31/2020 ,2h 13m,Kim Seong-sik,https://www.themoviedb.org/movie/496243
+778,Pokémon Detective Pikachu,70.0,"Action, Adventure, Fantasy",05/10/2019 ,1h 45m,Rob Letterman,https://www.themoviedb.org/movie/447404-pokemon-detective-pikachu
+779,AINBO: Spirit of the Amazon,70.0,"Adventure, Animation, Family, Fantasy",11/08/2022 ,1h 24m,Richard Claus,https://www.themoviedb.org/movie/588921-ainbo-spirit-of-the-amazon
+780,Larva Pendant,72.0,"Comedy, Family, Animation",05/25/2022 ,33m,Young-cheol Joe,https://www.themoviedb.org/movie/973608-larva-pendant
+781,Blended,68.0,Comedy,05/29/2014 ,1h 57m,Frank Coraci,https://www.themoviedb.org/movie/232672-blended
+782,The Christmas Chronicles: Part Two,65.0,"Family, Fantasy, Adventure, Comedy",11/18/2020 ,1h 52m,Chris Columbus,https://www.themoviedb.org/movie/654028-the-christmas-chronicles-part-two
+783,Rampage,64.0,"Action, Adventure, Science Fiction",04/13/2018 ,1h 47m,Bennett Gammon,https://www.themoviedb.org/movie/427641-rampage
+784,Six Swedish Girls in a Boarding School,53.0,Comedy,09/28/1979 ,1h 31m,Erwin C. Dietrich,https://www.themoviedb.org/movie/244784-sechs-schwedinnen-im-pensionat
+785,Restless,61.0,"Action, Thriller, Crime",02/25/2022 ,1h 35m,Régis Blondeau,https://www.themoviedb.org/movie/928381-sans-repit
+786,Maze Runner: The Scorch Trials,67.0,"Science Fiction, Action, Thriller, Adventure",09/18/2015 ,2h 11m,Wes Ball,https://www.themoviedb.org/movie/294254-maze-runner-the-scorch-trials
+787,Penguins of Madagascar,65.0,"Family, Animation, Adventure, Comedy",11/26/2014 ,1h 32m,Eric Darnell,https://www.themoviedb.org/movie/270946-penguins-of-madagascar
+788,Grown Ups,63.0,Comedy,06/24/2010 ,1h 42m,Dennis Dugan,https://www.themoviedb.org/movie/38365-grown-ups
+789,Monster Pets: A Hotel Transylvania Short,75.0,"Animation, Comedy, Fantasy",04/09/2021 ,6m,Derek Drymon,https://www.themoviedb.org/movie/813258-monster-pets-a-hotel-transylvania-short
+790,Road to Ninja: Naruto the Movie,76.0,"Animation, Fantasy, Action",07/28/2012 ,1h 49m,Junichi Takaoka,https://www.themoviedb.org/movie/118406-road-to-ninja-naruto-the-movie
+791,Brave,70.0,"Animation, Adventure, Comedy, Family, Action, Fantasy",06/22/2012 ,1h 33m,Steve Purcell,https://www.themoviedb.org/movie/62177-brave
+792,Army of Thieves,69.0,"Crime, Comedy",10/29/2021 ,2h 7m,Matthias Schweighöfer,https://www.themoviedb.org/movie/796499-army-of-thieves
+793,Legend,70.0,"Crime, Thriller",11/20/2015 ,2h 12m,Brian Helgeland,https://www.themoviedb.org/movie/276907-legend
+794,The Last Duel,75.0,"Action, Drama, History",10/22/2021 ,2h 33m,Ridley Scott,https://www.themoviedb.org/movie/617653-the-last-duel
+795,Beneath the Surface,69.0,"Fantasy, Horror, Thriller, Mystery",04/01/2022 ,1h 33m,Rebecca Matthews,https://www.themoviedb.org/movie/896448-beneath-the-surface
+796,Christmas ...Again?!,68.0,"Family, Comedy, Fantasy, TV Movie",12/03/2021 ,1h 34m,Andy Fickman,https://www.themoviedb.org/movie/762879-christmas-again
+797,Down,67.0,"Horror, Science Fiction, Drama",02/01/2019 ,1h 22m,Daniel Stamm,https://www.themoviedb.org/movie/571055-down
+798,Dragon Ball Z: Broly – Second Coming,67.0,"Animation, Action, Science Fiction",03/12/1994 ,48m,Shigeyasu Yamauchi,https://www.themoviedb.org/movie/44251
+799,The 355,62.0,"Action, Thriller",01/07/2022 ,2h 2m,Simon Kinberg,https://www.themoviedb.org/movie/522016-the-355
+800,Cherry Magic! THE MOVIE,65.0,"Comedy, Romance",04/08/2022 ,1h 44m,Hiroki Kazama,https://www.themoviedb.org/movie/926916-the-movie-30
+801,Jurassic World: Fallen Kingdom,66.0,"Action, Adventure, Science Fiction, Thriller",06/08/2018 ,2h 9m,J. A. Bayona,https://www.themoviedb.org/movie/351286-jurassic-world-fallen-kingdom
+802,The Lion King 1½,66.0,"Family, Animation, Comedy, Action",02/09/2004 ,1h 17m,Bradley Raymond,https://www.themoviedb.org/movie/11430-the-lion-king-1
+803,Ava,62.0,Drama,06/21/2017 ,1h 46m,Elodie Roy,https://www.themoviedb.org/movie/453354-ava
+804,Hora de Brilhar,0.0,Comedy,07/29/2022 ,Null,Maurício Eça,https://www.themoviedb.org/movie/993736-hora-de-brilhar
+805,Three Thousand Years of Longing,70.0,"Fantasy, Drama, Romance",09/01/2022 ,1h 48m,Guy Norris,https://www.themoviedb.org/movie/556694-three-thousand-years-of-longing
+806,Naruto: The Lost Story - Mission: Protect the Waterfall Village!,68.0,"Animation, Action, Adventure",12/20/2003 ,40m,Hayato Date,https://www.themoviedb.org/movie/410685-naruto-takigakure-no-shito-ore-ga-eiyu-dattebayo
+807,Ready Player One,76.0,"Science Fiction, Adventure, Action",03/30/2018 ,2h 20m,Steven Spielberg,https://www.themoviedb.org/movie/333339-ready-player-one
+808,It,72.0,"Horror, Fantasy",09/08/2017 ,2h 15m,Adam Richard Benish,https://www.themoviedb.org/movie/346364-it
+809,Reclaim,20.0,,07/29/2022 ,Null,Adam Richard Benish,https://www.themoviedb.org/movie/1009921-reclaim
+810,Mean Girls,72.0,Comedy,04/30/2004 ,1h 37m,Mark Waters,https://www.themoviedb.org/movie/10625-mean-girls
+811,A Bug's Life,70.0,"Adventure, Animation, Comedy, Family",11/25/1998 ,1h 35m,Andrew Stanton,https://www.themoviedb.org/movie/9487-a-bug-s-life
+812,Dragon Ball Z: Super Android 13!,67.0,"Action, Animation, Science Fiction",07/11/1992 ,46m,Daisuke Nishio,https://www.themoviedb.org/movie/39104
+813,Suicide Squad,59.0,"Action, Adventure, Fantasy",08/05/2016 ,2h 3m,Janine Fung,https://www.themoviedb.org/movie/297761-suicide-squad
+814,Aladdin,71.0,"Adventure, Fantasy, Romance, Family",05/24/2019 ,2h 7m,Guy Ritchie,https://www.themoviedb.org/movie/420817-aladdin
+815,Silverton Siege,65.0,"Action, Crime, Drama",04/27/2022 ,1h 40m,"Mandlakayise Walter Dube, Jr.",https://www.themoviedb.org/movie/951470-silverton-siege
+816,Cinderella II: Dreams Come True,61.0,"Family, Animation, Romance, Fantasy",02/23/2002 ,1h 14m,John Kafka,https://www.themoviedb.org/movie/14128-cinderella-ii-dreams-come-true
+817,Scary Movie 2,58.0,Comedy,07/04/2001 ,1h 23m,Eric Wall,https://www.themoviedb.org/movie/4248-scary-movie-2
+818,Dragon Ball Z: The Return of Cooler,66.0,"Action, Animation, Science Fiction",03/07/1992 ,46m,Daisuke Nishio,https://www.themoviedb.org/movie/39103-z-100
+819,Rise of the Planet of the Apes,73.0,"Thriller, Action, Drama, Science Fiction",08/04/2011 ,1h 45m,Rupert Wyatt,https://www.themoviedb.org/movie/61791-rise-of-the-planet-of-the-apes
+820,Kingsman: The Secret Service,76.0,"Crime, Comedy, Action, Adventure",02/27/2015 ,2h 9m,Matthew Vaughn,https://www.themoviedb.org/movie/207703-kingsman-the-secret-service
+821,The Boy in the Striped Pyjamas,79.0,"War, Drama, History",11/07/2008 ,1h 34m,Mark Herman,https://www.themoviedb.org/movie/14574-the-boy-in-the-striped-pyjamas
+822,Fifty Shades Darker,65.0,"Drama, Romance",02/10/2017 ,1h 58m,James Foley,https://www.themoviedb.org/movie/341174-fifty-shades-darker
+823,Hercules,75.0,"Animation, Family, Fantasy, Adventure, Comedy, Romance",06/27/1997 ,1h 33m,John Musker,https://www.themoviedb.org/movie/11970-hercules
+824,Superfast!,50.0,"Comedy, Action",04/02/2015 ,1h 39m,Aaron Seltzer,https://www.themoviedb.org/movie/325358-superfast
+825,Porno,44.0,Drama,01/01/1981 ,1h 23m,David Cardoso,https://www.themoviedb.org/movie/197158-porno
+826,Tom Clancy's Without Remorse,71.0,"Action, Thriller",04/29/2021 ,1h 49m,Stefano Sollima,https://www.themoviedb.org/movie/567189-tom-clancy-s-without-remorse
+827,The Hunger Games: Mockingjay - Part 2,69.0,"Action, Adventure, Science Fiction",11/20/2015 ,2h 17m,Francis Lawrence,https://www.themoviedb.org/movie/131634-the-hunger-games-mockingjay-part-2
+828,Predator,75.0,"Science Fiction, Action, Adventure, Thriller",06/12/1987 ,1h 47m,John McTiernan,https://www.themoviedb.org/movie/106-predator
+829,American Psycho,74.0,"Thriller, Drama, Crime",04/14/2000 ,1h 42m,Mary Harron,https://www.themoviedb.org/movie/1359-american-psycho
+830,Spirit: Stallion of the Cimarron,77.0,"Western, Animation, Adventure, Comedy, Family, Drama",05/24/2002 ,1h 23m,Kelly Asbury,https://www.themoviedb.org/movie/9023-spirit-stallion-of-the-cimarron
+831,White Chicks,69.0,"Comedy, Crime",06/23/2004 ,1h 49m,Keenen Ivory Wayans,https://www.themoviedb.org/movie/12153-white-chicks
+832,"Roundabout, The Shortest Distance Is Round",29.0,Drama,07/05/2019 ,1h 10m,Daisuke Yamanouchi,https://www.themoviedb.org/movie/617132
+833,Redeeming Love,79.0,"Romance, Drama, History",01/21/2022 ,2h 14m,D. J. Caruso,https://www.themoviedb.org/movie/698508-redeeming-love
+834,Naruto Shippuden the Movie: Bonds,72.0,"Fantasy, Animation, Action",08/02/2008 ,1h 30m,Hajime Kamegaki,https://www.themoviedb.org/movie/17581-naruto
+835,Ice Age: Dawn of the Dinosaurs,67.0,"Animation, Comedy, Family, Adventure",07/03/2009 ,1h 34m,Mike Thurmeier,https://www.themoviedb.org/movie/8355-ice-age-dawn-of-the-dinosaurs
+836,The Equalizer 2,67.0,"Action, Thriller, Crime",07/20/2018 ,2h 1m,Antoine Fuqua,https://www.themoviedb.org/movie/345887-the-equalizer-2
+837,Honor Society,79.0,Comedy,07/29/2022 ,1h 37m,Oran Zegman,https://www.themoviedb.org/movie/929170-honor-society
+838,Titanic 666,62.0,"Thriller, Horror",04/15/2022 ,1h 31m,Nick Lyon,https://www.themoviedb.org/movie/945657-titanic-666
+839,Pacific Rim,69.0,"Action, Science Fiction, Adventure",07/12/2013 ,2h 11m,Guillermo del Toro,https://www.themoviedb.org/movie/68726-pacific-rim
+840,A Stasi Comedy,61.0,Comedy,05/19/2022 ,1h 55m,Leander Haußmann,https://www.themoviedb.org/movie/943000-leander-haussmanns-stasikomodie
+841,Godzilla: King of the Monsters,67.0,"Science Fiction, Action",05/30/2019 ,2h 12m,Michael Dougherty,https://www.themoviedb.org/movie/373571-godzilla-king-of-the-monsters
+842,A Boy Called Christmas,74.0,"Family, Adventure, Fantasy",11/24/2021 ,1h 44m,Gil Kenan,https://www.themoviedb.org/movie/615666-a-boy-called-christmas
+843,The Night Clerk,62.0,"Thriller, Crime, Drama",02/21/2020 ,1h 30m,Michael Cristofer,https://www.themoviedb.org/movie/526007-the-night-clerk
+844,Beasts of No Nation,76.0,"Drama, War",10/16/2015 ,2h 17m,Cary Joji Fukunaga,https://www.themoviedb.org/movie/283587-beasts-of-no-nation
+845,Just Go with It,67.0,"Comedy, Romance",02/11/2011 ,1h 57m,Dennis Dugan,https://www.themoviedb.org/movie/50546-just-go-with-it
+846,Fistful of Vengeance,56.0,"Action, Fantasy",02/17/2022 ,1h 37m,Roel Reiné,https://www.themoviedb.org/movie/890656-fistful-of-vengeance
+847,Aunt's Temptation 3,58.0,Romance,05/22/2020 ,1h 11m,Won Myeong-jun,https://www.themoviedb.org/movie/710692-3
+848,King Tweety,70.0,"Animation, Comedy, Family",06/14/2022 ,1h 21m,Careen Ingle,https://www.themoviedb.org/movie/952217-king-tweety
+849,The Hills Have Eyes 2,55.0,"Horror, Thriller",03/22/2007 ,1h 29m,Martin Weisz,https://www.themoviedb.org/movie/9793-the-hills-have-eyes-2
+850,Maze Runner: The Death Cure,71.0,"Science Fiction, Action, Adventure, Thriller",02/09/2018 ,2h 23m,Kim Robinson,https://www.themoviedb.org/movie/336843-maze-runner-the-death-cure
+851,Rio,67.0,"Animation, Adventure, Comedy, Family",04/08/2011 ,1h 36m,Carlos Saldanha,https://www.themoviedb.org/movie/46195-rio
+852,Fantastic Beasts and Where to Find Them,73.0,"Action, Adventure, Fantasy",11/18/2016 ,2h 12m,David Yates,https://www.themoviedb.org/movie/259316-fantastic-beasts-and-where-to-find-them
+853,Amina,65.0,"War, History, Drama",11/04/2021 ,2h,Chuks Okoro,https://www.themoviedb.org/movie/885110-amina
+854,The Intouchables,83.0,"Drama, Comedy",07/13/2012 ,1h 53m,Olivier Nakache,https://www.themoviedb.org/movie/77338-intouchables
+855,Valley of the Dead,62.0,"Comedy, Horror, War",07/11/2022 ,1h 41m,Alberto de Toro,https://www.themoviedb.org/movie/613093-malnazidos
+856,Pirates of the Caribbean: Dead Men Tell No Tales,66.0,"Adventure, Action, Fantasy",05/26/2017 ,2h 9m,Espen Sandberg,https://www.themoviedb.org/movie/166426-pirates-of-the-caribbean-dead-men-tell-no-tales
+857,Legion,58.0,"Horror, Action, Fantasy",01/22/2010 ,1h 40m,Scott Stewart,https://www.themoviedb.org/movie/22894-legion
+858,Exodus: Gods and Kings,58.0,"Adventure, Drama, Action",12/05/2014 ,2h 30m,Ridley Scott,https://www.themoviedb.org/movie/147441-exodus-gods-and-kings
+859,Gone Girl,79.0,"Mystery, Thriller, Drama",10/31/2014 ,2h 29m,Courtenay Miles,https://www.themoviedb.org/movie/210577-gone-girl
+860,Ninja Assassin,65.0,"Action, Thriller",09/29/2009 ,1h 39m,James McTeigue,https://www.themoviedb.org/movie/22832-ninja-assassin
+861,Finch,80.0,"Science Fiction, Drama, Adventure",11/04/2021 ,1h 55m,Miguel Sapochnik,https://www.themoviedb.org/movie/522402-finch
+862,Bound by Honor,81.0,"Crime, Action, Drama, Thriller",02/05/1993 ,3h 10m,Taylor Hackford,https://www.themoviedb.org/movie/9702-bound-by-honor
+863,El gerente,82.0,Comedy,10/20/2022 ,1h 44m,Ariel Winograd,https://www.themoviedb.org/movie/931925-el-gerente
+864,The Hurt Locker,73.0,"Drama, Thriller, War",04/09/2010 ,2h 11m,Kathryn Bigelow,https://www.themoviedb.org/movie/12162-the-hurt-locker
+865,Star Wars: The Force Awakens,73.0,"Adventure, Action, Science Fiction, Fantasy",12/18/2015 ,2h 16m,Scott Owen,https://www.themoviedb.org/movie/140607-star-wars-the-force-awakens
+866,Alice in Wonderland,66.0,"Family, Fantasy, Adventure",03/12/2010 ,1h 48m,Tim Burton,https://www.themoviedb.org/movie/12155-alice-in-wonderland
+867,The Party at Kitty and Stud's,31.0,"Comedy, Drama",02/10/1970 ,1h 11m,Morton M. Lewis,https://www.themoviedb.org/movie/4255-the-party-at-kitty-and-stud-s
+868,American Sniper,74.0,"War, Action",01/16/2015 ,2h 13m,Clint Eastwood,https://www.themoviedb.org/movie/190859-american-sniper
+869,Pokémon the Movie: I Choose You!,70.0,"Family, Animation, Adventure, Fantasy",11/24/2017 ,1h 38m,Tetsuo Yajima,https://www.themoviedb.org/movie/436931
+870,The Hunger Games: Catching Fire,74.0,"Adventure, Action, Science Fiction",12/06/2013 ,2h 26m,Francis Lawrence,https://www.themoviedb.org/movie/101299-the-hunger-games-catching-fire
+871,Women in Fury,40.0,"Action, Drama",06/20/1985 ,1h 30m,Michele Massimo Tarantini,https://www.themoviedb.org/movie/39456-femmine-in-fuga
+872,Dragon Ball Z: Cooler's Revenge,69.0,"Action, Animation, Science Fiction",07/20/1991 ,48m,Mitsuo Hashimoto,https://www.themoviedb.org/movie/24752-z
+873,Transformers: The Last Knight,60.0,"Action, Adventure, Science Fiction",06/21/2017 ,2h 34m,Michael Bay,https://www.themoviedb.org/movie/335988-transformers-the-last-knight
+874,Trolls Holiday in Harmony,72.0,"Animation, Fantasy, Family",11/27/2021 ,30m,Sean Charmatz,https://www.themoviedb.org/movie/896221-trolls-holiday-in-harmony
+875,The Exorcist,77.0,Horror,08/27/1977 ,2h 2m,William Friedkin,https://www.themoviedb.org/movie/9552-the-exorcist
+876,See How They Run,66.0,"Comedy, Mystery, Thriller",09/16/2022 ,1h 38m,Tom George,https://www.themoviedb.org/movie/766475-see-how-they-run
+877,Five Feet Apart,83.0,"Romance, Drama",03/29/2019 ,1h 56m,Justin Baldoni,https://www.themoviedb.org/movie/527641-five-feet-apart
+878,Star Wars: The Rise of Skywalker,64.0,"Adventure, Action, Science Fiction",12/20/2019 ,2h 22m,J.J. Abrams,https://www.themoviedb.org/movie/181812-star-wars-the-rise-of-skywalker
+879,The Redeem Team,75.0,Documentary,10/07/2022 ,1h 38m,Jon Weinbach,https://www.themoviedb.org/movie/1018648-the-redeem-team
+880,The Incredible Hulk,62.0,"Science Fiction, Action, Adventure",06/12/2008 ,1h 54m,Louis Leterrier,https://www.themoviedb.org/movie/1724-the-incredible-hulk
+881,The Emperor's New Groove,76.0,"Adventure, Animation, Comedy, Family, Fantasy",12/15/2000 ,1h 18m,Mark Dindal,https://www.themoviedb.org/movie/11688-the-emperor-s-new-groove
+882,The Consequences,57.0,"Drama, Thriller",09/17/2021 ,1h 36m,Claudia Pinto Emperador,https://www.themoviedb.org/movie/833043-las-consecuencias
+883,The SpongeBob SquarePants Movie,70.0,"Family, Animation, Comedy, Fantasy, Adventure",11/19/2004 ,1h 27m,Mark Osborne,https://www.themoviedb.org/movie/11836-the-spongebob-squarepants-movie
+884,Alice in Wonderland,72.0,"Animation, Family, Fantasy, Adventure",09/14/1951 ,1h 15m,Clyde Geronimi,https://www.themoviedb.org/movie/12092-alice-in-wonderland
+885,Wonder Woman,72.0,"Action, Adventure, Fantasy",06/02/2017 ,2h 21m,María Cuenca,https://www.themoviedb.org/movie/297762-wonder-woman
+886,Logan,78.0,"Action, Drama, Science Fiction",03/03/2017 ,2h 17m,James Mangold,https://www.themoviedb.org/movie/263115-logan
+887,Gasoline Alley,54.0,"Action, Thriller, Crime, Mystery",02/25/2022 ,1h 37m,Edward Drake,https://www.themoviedb.org/movie/916821-gasoline-alley
+888,The Walking Dead: The Journey So Far,78.0,Documentary,10/16/2016 ,1h 36m,Edward Drake,https://www.themoviedb.org/movie/720998-the-walking-dead-the-journey-so-far
+889,Project X,68.0,Comedy,03/02/2012 ,1h 28m,Nima Nourizadeh,https://www.themoviedb.org/movie/57214-project-x
+890,The Hangover Part III,62.0,Comedy,05/23/2013 ,1h 40m,Todd Phillips,https://www.themoviedb.org/movie/109439-the-hangover-part-iii
+891,Chip and Potato: Chip's Holiday,53.0,Animation,06/27/2022 ,24m,Todd Phillips,https://www.themoviedb.org/movie/992187-chip-and-potato-chip-s-holiday
+892,Ripper Untold,62.0,Horror,06/28/2021 ,1h 25m,Steven Lawson,https://www.themoviedb.org/movie/820511-ripper-untold
+893,Cars,69.0,"Animation, Adventure, Comedy, Family",08/04/2006 ,1h 57m,Joe Ranft,https://www.themoviedb.org/movie/920-cars
+894,Hotel Transylvania,70.0,"Animation, Comedy, Family, Fantasy",09/28/2012 ,1h 31m,Genndy Tartakovsky,https://www.themoviedb.org/movie/76492-hotel-transylvania
+895,Law Abiding Citizen,73.0,"Drama, Crime, Thriller",10/15/2009 ,1h 49m,F. Gary Gray,https://www.themoviedb.org/movie/22803-law-abiding-citizen
+896,Cult of Chucky,58.0,"Horror, Thriller",10/12/2017 ,1h 31m,Don Mancini,https://www.themoviedb.org/movie/393345-cult-of-chucky
+897,In Time,70.0,"Action, Thriller, Science Fiction",10/28/2011 ,1h 49m,Andrew Niccol,https://www.themoviedb.org/movie/49530-in-time
+898,Dragon Ball Z: Lord Slug,64.0,"Action, Animation, Science Fiction",03/19/1991 ,52m,Mitsuo Hashimoto,https://www.themoviedb.org/movie/39102
+899,WALL·E,81.0,"Animation, Family, Science Fiction",08/29/2008 ,1h 38m,Janette Nielsen,https://www.themoviedb.org/movie/10681-wall-e
+900,Ice Age: Continental Drift,63.0,"Animation, Comedy, Adventure, Family",07/27/2012 ,1h 28m,Mike Thurmeier,https://www.themoviedb.org/movie/57800-ice-age-continental-drift
+901,Captain America: The First Avenger,70.0,"Action, Adventure, Science Fiction",07/22/2011 ,2h 4m,Joe Johnston,https://www.themoviedb.org/movie/1771-captain-america-the-first-avenger
+902,Tenet,72.0,"Action, Thriller, Science Fiction",12/04/2020 ,2h 30m,Alicia Triana Tabeau,https://www.themoviedb.org/movie/577922-tenet
+903,Scary Movie 5,48.0,Comedy,04/12/2013 ,1h 26m,Malcolm D. Lee,https://www.themoviedb.org/movie/4258-scary-movie-5
+904,Overcomer,77.0,Drama,08/23/2019 ,1h 59m,Alex Kendrick,https://www.themoviedb.org/movie/527776-overcomer
+905,I Spit on Your Grave III: Vengeance is Mine,57.0,"Horror, Thriller",10/01/2015 ,1h 31m,R.D. Braunstein,https://www.themoviedb.org/movie/357096-i-spit-on-your-grave-iii-vengeance-is-mine
+906,The Hangover Part II,65.0,Comedy,05/27/2011 ,1h 42m,Todd Phillips,https://www.themoviedb.org/movie/45243-the-hangover-part-ii
+907,Peter Rabbit 2: The Runaway,72.0,"Family, Comedy, Adventure, Animation, Fantasy",03/25/2021 ,1h 33m,Will Gluck,https://www.themoviedb.org/movie/522478-peter-rabbit-2-the-runaway
+908,Hercules,58.0,"Action, Adventure",07/25/2014 ,1h 39m,Brett Ratner,https://www.themoviedb.org/movie/184315-hercules
+909,Ferdinand,72.0,"Animation, Family, Adventure, Comedy",12/15/2017 ,1h 48m,Carlos Saldanha,https://www.themoviedb.org/movie/364689-ferdinand
+910,The Long Dark Trail,53.0,Horror,06/19/2021 ,1h 18m,Kevin Ignatius,https://www.themoviedb.org/movie/888838-the-long-dark-trail
+911,Violet Evergarden: The Movie,83.0,"Animation, Fantasy, Romance, Drama",09/18/2020 ,2h 20m,Minoru Ota,https://www.themoviedb.org/movie/533514
+912,Adultery Alumni Association,0.0,"Drama, Romance",03/02/2018 ,1h 22m,Jo Tae-ho,https://www.themoviedb.org/movie/504903
+913,ODDTAXI in the Woods,73.0,"Animation, Comedy, Mystery",04/01/2022 ,2h 8m,Norio Nitta,https://www.themoviedb.org/movie/919609
+914,Restart The Earth,70.0,"Science Fiction, Horror, Action",09/03/2021 ,1h 29m,Lin Zhenzhao,https://www.themoviedb.org/movie/870096
+915,The Remaining,57.0,"Thriller, Horror",09/05/2014 ,1h 28m,Casey La Scala,https://www.themoviedb.org/movie/280002-the-remaining
+916,From Straight A's to XXX,57.0,"Drama, TV Movie",02/11/2017 ,1h 27m,Damion Harper,https://www.themoviedb.org/movie/441168-from-straight-a-s-to-xxx
+917,In the Arms of an Assassin,81.0,"Romance, Thriller",12/06/2019 ,1h 41m,Matías Moltrasio,https://www.themoviedb.org/movie/652722-en-brazos-de-un-asesino
+918,Finding Grace,58.0,Drama,04/21/2020 ,1h 46m,Warren Fast,https://www.themoviedb.org/movie/695568-finding-grace
+919,Ant-Man and the Wasp,70.0,"Action, Adventure, Science Fiction",07/13/2018 ,1h 59m,Peyton Reed,https://www.themoviedb.org/movie/363088-ant-man-and-the-wasp
+920,My Best Friend's Exorcism,60.0,"Horror, Comedy",09/29/2022 ,1h 36m,Damon Thomas,https://www.themoviedb.org/movie/816952-my-best-friend-s-exorcism
+921,Guardians of the Galaxy,79.0,"Action, Science Fiction, Adventure",08/08/2014 ,2h 1m,James Gunn,https://www.themoviedb.org/movie/118340-guardians-of-the-galaxy
+922,Rio 2,65.0,"Adventure, Animation, Comedy, Family",04/10/2014 ,1h 41m,Carlos Saldanha,https://www.themoviedb.org/movie/172385-rio-2
+923,Mary Magdalene,63.0,"Drama, History",03/22/2018 ,2h,Garth Davis,https://www.themoviedb.org/movie/407439-mary-magdalene
+924,The Passion of the Christ,74.0,Drama,05/07/2004 ,2h 7m,Mel Gibson,https://www.themoviedb.org/movie/615-the-passion-of-the-christ
+925,Christmas with the Kranks,61.0,"Comedy, Family",11/24/2004 ,1h 39m,Joe Roth,https://www.themoviedb.org/movie/13673-christmas-with-the-kranks
+926,Knives Out,79.0,"Comedy, Crime, Mystery",11/27/2019 ,2h 11m,Rian Johnson,https://www.themoviedb.org/movie/546554-knives-out
+927,Living with Chucky,55.0,"Documentary, Horror",08/13/2022 ,1h 45m,Kyra Elise Gardner,https://www.themoviedb.org/movie/926762-living-with-chucky
+928,Save the Cinema,64.0,Drama,01/14/2022 ,1h 49m,Sara Sugarman,https://www.themoviedb.org/movie/790386-save-the-cinema
+929,Curse of Chucky,59.0,"Horror, Thriller",10/08/2013 ,1h 37m,Don Mancini,https://www.themoviedb.org/movie/167032-curse-of-chucky
+930,Guardians of the Galaxy Vol. 3,0.0,"Action, Adventure, Science Fiction",05/05/2023 ,Null,James Gunn,https://www.themoviedb.org/movie/447365-guardians-of-the-galaxy-vol-3
+931,Once Upon a Snowman,69.0,"Animation, Family, Comedy, Fantasy",10/23/2020 ,7m,Dan Abraham,https://www.themoviedb.org/movie/741074-once-upon-a-snowman
+932,The Many Saints of Newark,65.0,"Crime, Drama",10/01/2021 ,2h,Alan Taylor,https://www.themoviedb.org/movie/524369-the-many-saints-of-newark
+933,Rambo: Last Blood,65.0,"Action, Thriller, Drama",09/20/2019 ,1h 29m,Adrian Grünberg,https://www.themoviedb.org/movie/522938-rambo-last-blood
+934,Back to the Future,83.0,"Adventure, Comedy, Science Fiction",07/03/1985 ,1h 56m,Robert Zemeckis,https://www.themoviedb.org/movie/105-back-to-the-future
+935,Robbing Mussolini,57.0,"Action, Adventure, Comedy, Crime, War",10/26/2022 ,1h 39m,Renato De Maria,https://www.themoviedb.org/movie/873125-rapiniamo-il-duce
+936,Shin Ultraman,70.0,"Drama, Action, Science Fiction",05/13/2022 ,1h 52m,Ikki Todoroki,https://www.themoviedb.org/movie/634429
+937,Inglourious Basterds,82.0,"Drama, Action, Thriller, War",08/21/2009 ,2h 33m,Carlos Fidel,https://www.themoviedb.org/movie/16869-inglourious-basterds
+938,Pinocchio,66.0,"Drama, Family, Fantasy",12/19/2019 ,2h 4m,Matteo Garrone,https://www.themoviedb.org/movie/413518-pinocchio
+939,A Haunted House 2,61.0,"Comedy, Horror",04/18/2014 ,1h 27m,Michael Tiddes,https://www.themoviedb.org/movie/184345-a-haunted-house-2
+940,Ice Age: The Meltdown,67.0,"Animation, Family, Comedy, Adventure",04/21/2006 ,1h 31m,Carlos Saldanha,https://www.themoviedb.org/movie/950-ice-age-the-meltdown
+941,Chappie,68.0,"Crime, Action, Science Fiction",03/06/2015 ,2h,Neill Blomkamp,https://www.themoviedb.org/movie/198184-chappie
+942,Lilo & Stitch,75.0,"Animation, Family",06/21/2002 ,1h 25m,Chris Sanders,https://www.themoviedb.org/movie/11544-lilo-stitch
+943,Train to Busan,78.0,"Horror, Thriller, Science Fiction, Action",07/20/2016 ,1h 58m,Min Hong-nam,https://www.themoviedb.org/movie/396535
+944,Southpaw,74.0,"Action, Drama",07/24/2015 ,2h 3m,Antoine Fuqua,https://www.themoviedb.org/movie/307081-southpaw
+945,Black Crab,63.0,"Action, Thriller",03/18/2022 ,1h 49m,Adam Berg,https://www.themoviedb.org/movie/760868-svart-krabba
+946,Trolls World Tour,74.0,"Family, Animation, Comedy, Fantasy, Adventure, Music",03/11/2020 ,1h 30m,David P. Smith,https://www.themoviedb.org/movie/446893-trolls-world-tour
+947,Goblin Slayer: Goblin's Crown,76.0,"Animation, Adventure, Action, Fantasy",02/01/2020 ,1h 25m,Takaharu Ozaki,https://www.themoviedb.org/movie/631132-goblin-s-crown
+948,Hotel Transylvania 3: Summer Vacation,69.0,"Animation, Comedy, Family, Fantasy",07/13/2018 ,1h 37m,Genndy Tartakovsky,https://www.themoviedb.org/movie/400155-hotel-transylvania-3-summer-vacation
+949,Dragon Ball Z: Fusion Reborn,74.0,"Animation, Action, Fantasy, Science Fiction",03/04/1995 ,55m,Shigeyasu Yamauchi,https://www.themoviedb.org/movie/39107-z
+950,Chinese Grandma,32.0,"Comedy, Drama",08/26/2010 ,1h 23m,Vladimir Tumaev,https://www.themoviedb.org/movie/77988
+951,Cheeky,55.0,"Comedy, Drama, Romance",01/28/2000 ,1h 31m,Tinto Brass,https://www.themoviedb.org/movie/22705-tra-sgre-dire
+952,Kingsman: The Golden Circle,70.0,"Action, Adventure, Comedy, Science Fiction, Crime",09/22/2017 ,2h 21m,Harry Minter,https://www.themoviedb.org/movie/343668-kingsman-the-golden-circle
+953,An Affair: Kind Daughters-in-law,0.0,Romance,01/25/2018 ,1h 11m,Kim Bu-gon,https://www.themoviedb.org/movie/495979
+954,Alien: Covenant,61.0,"Science Fiction, Horror, Mystery",05/12/2017 ,2h 2m,Raymond Kirk,https://www.themoviedb.org/movie/126889-alien-covenant
+955,Dark Blood,55.0,"Crime, Drama",10/07/2021 ,1h 23m,Harold Trompetero,https://www.themoviedb.org/movie/845885-dark-blood
+956,Fast X,0.0,"Action, Crime, Thriller",05/19/2023 ,Null,Louis Leterrier,https://www.themoviedb.org/movie/385687-fast-x
+957,Ant-Man,71.0,"Science Fiction, Action, Adventure",07/24/2015 ,1h 57m,Peyton Reed,https://www.themoviedb.org/movie/102899-ant-man
+958,Jupiter Ascending,54.0,"Science Fiction, Fantasy, Action",02/28/2015 ,2h 7m,Ayesha Corn,https://www.themoviedb.org/movie/76757-jupiter-ascending
+959,The Purge: Election Year,64.0,"Action, Horror, Thriller",07/01/2016 ,1h 45m,James DeMonaco,https://www.themoviedb.org/movie/316727-the-purge-election-year
+960,50 Greatest Harry Potter Moments,77.0,Documentary,07/27/2011 ,1h 33m,James DeMonaco,https://www.themoviedb.org/movie/483898-50-greatest-harry-potter-moments
+961,Rocky V,57.0,Drama,11/16/1990 ,1h 44m,John G. Avildsen,https://www.themoviedb.org/movie/1375-rocky-v
+962,Lucy,64.0,"Action, Science Fiction",07/25/2014 ,1h 29m,Luc Besson,https://www.themoviedb.org/movie/240832-lucy
+963,Haul Out the Holly,67.0,"TV Movie, Comedy, Drama, Romance",11/26/2022 ,1h 24m,Maclain Nelson,https://www.themoviedb.org/movie/1028556-haul-out-the-holly
+964,Brother Bear,72.0,"Adventure, Animation, Family",11/01/2003 ,1h 25m,Aaron Blaise,https://www.themoviedb.org/movie/10009-brother-bear
+965,Centauro,62.0,"Action, Crime, Thriller",06/15/2022 ,1h 29m,Daniel Calparsoro,https://www.themoviedb.org/movie/852592-centauro
+966,Paranormal Activity: Next of Kin,64.0,"Horror, Mystery, Thriller",10/29/2021 ,1h 38m,William Eubank,https://www.themoviedb.org/movie/609972-paranormal-activity-next-of-kin
+967,El Infierno,78.0,"Drama, Crime, Comedy",09/03/2010 ,2h 25m,Martín Torres,https://www.themoviedb.org/movie/52629-el-infierno
+968,The Action Pack Saves Christmas,100.0,"Animation, Family",11/28/2022 ,28m,James Lopez,https://www.themoviedb.org/movie/1045636-the-action-pack-saves-christmas
+969,Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog,80.0,"Animation, Comedy, Mystery, Family, Fantasy",09/14/2021 ,1h 12m,Cecilia Aranovich,https://www.themoviedb.org/movie/843906-straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog
+970,The Legend of Maula Jatt,65.0,"Drama, Fantasy, Action",10/13/2022 ,2h 33m,Bilal Lashari,https://www.themoviedb.org/movie/464293-the-legend-of-maula-jatt
+971,Moonbound,64.0,"Animation, Adventure, Family, Fantasy",06/24/2021 ,1h 21m,Ali Samadi Ahadi,https://www.themoviedb.org/movie/809717-peterchens-mondfahrt
+972,The First Purge,60.0,"Horror, Action, Thriller",07/04/2018 ,1h 37m,Gerard McMurray,https://www.themoviedb.org/movie/442249-the-first-purge
+973,American Pie Presents: The Book of Love,52.0,Comedy,12/04/2009 ,1h 33m,John Putch,https://www.themoviedb.org/movie/26123-american-pie-presents-the-book-of-love
+974,American Pie,65.0,"Comedy, Romance",07/09/1999 ,1h 35m,Paul Weitz,https://www.themoviedb.org/movie/2105-american-pie
+975,Batman Begins,77.0,"Action, Crime, Drama",06/17/2005 ,2h 20m,Eric Richard Lasko,https://www.themoviedb.org/movie/272-batman-begins
+976,Ciao Alberto,75.0,"Animation, Comedy, Family, Fantasy",11/12/2021 ,7m,McKenna Jean Harris,https://www.themoviedb.org/movie/876716-ciao-alberto
+977,Rambo,66.0,"Action, Thriller",01/25/2008 ,1h 32m,Sylvester Stallone,https://www.themoviedb.org/movie/7555-rambo
+978,American Pie Presents: Beta House,56.0,Comedy,12/10/2007 ,1h 25m,Andrew Waller,https://www.themoviedb.org/movie/8277-american-pie-presents-beta-house
+979,Godzilla,63.0,"Action, Drama, Science Fiction",05/16/2014 ,2h 3m,Gareth Edwards,https://www.themoviedb.org/movie/124905-godzilla
+980,Kung Fu Panda 2,69.0,"Animation, Family",05/25/2011 ,1h 31m,Jennifer Yuh Nelson,https://www.themoviedb.org/movie/49444-kung-fu-panda-2
+981,Berlin Drifters,46.0,Drama,10/26/2017 ,2h 3m,Kôichi Imaizumi,https://www.themoviedb.org/movie/511617
+982,Tenor,73.0,"Comedy, Drama",05/04/2022 ,1h 40m,Claude Zidi Jr.,https://www.themoviedb.org/movie/936074-tenor
+983,Terminator 3: Rise of the Machines,61.0,"Action, Thriller, Science Fiction",07/25/2003 ,1h 49m,Christian Pichler,https://www.themoviedb.org/movie/296-terminator-3-rise-of-the-machines
+984,Princess Principal Crown Handler: Chapter 1,51.0,"Animation, Action, Adventure, Drama, Mystery",02/11/2021 ,54m,Masaki Tachibana,https://www.themoviedb.org/movie/542507-crown-handler-1
+985,I Am Vanessa Guillen,77.0,Documentary,11/17/2022 ,1h 35m,Christy Wegener,https://www.themoviedb.org/movie/1030323-i-am-vanessa-guillen
+986,Ponyo,77.0,"Animation, Fantasy, Family",07/19/2008 ,1h 40m,Hayao Miyazaki,https://www.themoviedb.org/movie/12429
+987,Merlin and the Book of Beasts,43.0,"Adventure, Fantasy",08/29/2009 ,1h 32m,Warren P. Sonoda,https://www.themoviedb.org/movie/21358-merlin-and-the-book-of-beasts
+988,Shutter Island,82.0,"Drama, Thriller, Mystery",02/18/2010 ,2h 18m,Martin Scorsese,https://www.themoviedb.org/movie/11324-shutter-island
+989,The Marksman,69.0,"Action, Thriller",01/15/2021 ,1h 48m,Robert Lorenz,https://www.themoviedb.org/movie/634528-the-marksman
+990,Tad the Lost Explorer and the Secret of King Midas,66.0,"Animation, Adventure, Comedy, Family",08/25/2017 ,1h 25m,David Alonso Pérez de Algaba,https://www.themoviedb.org/movie/452773-tadeo-jones-2-el-secreto-del-rey-midas
+991,The Valet,77.0,"Comedy, Romance",05/20/2022 ,2h 4m,Richard Wong,https://www.themoviedb.org/movie/810171-the-valet
+992,Jumanji: Welcome to the Jungle,68.0,"Adventure, Action, Comedy, Fantasy",12/29/2017 ,1h 59m,Jake Kasdan,https://www.themoviedb.org/movie/353486-jumanji-welcome-to-the-jungle
+993,Pacific Rim: Uprising,61.0,"Action, Fantasy, Science Fiction, Adventure",03/28/2018 ,1h 51m,Nick Satriano,https://www.themoviedb.org/movie/268896-pacific-rim-uprising
+994,Onward,78.0,"Family, Animation, Adventure, Comedy, Fantasy",03/06/2020 ,1h 43m,Dan Scanlon,https://www.themoviedb.org/movie/508439-onward
+995,Marry Me,70.0,"Romance, Comedy, Music",02/11/2022 ,1h 52m,Kat Coiro,https://www.themoviedb.org/movie/615904-marry-me
+996,Malcolm X,75.0,"Drama, History",11/18/1992 ,3h 22m,Spike Lee,https://www.themoviedb.org/movie/1883-malcolm-x
+997,Catherine Called Birdy,62.0,"Adventure, Comedy",09/23/2022 ,1h 48m,Lena Dunham,https://www.themoviedb.org/movie/795109-catherine-called-birdy
+998,Don't Look Up,72.0,"Comedy, Science Fiction",12/08/2021 ,2h 18m,Adam McKay,https://www.themoviedb.org/movie/646380-don-t-look-up
+999,Saving Private Ryan,82.0,"Drama, History, War",07/24/1998 ,2h 49m,Sara Desmond,https://www.themoviedb.org/movie/857-saving-private-ryan
